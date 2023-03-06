@@ -441,7 +441,7 @@
   "infoAboutProdutc":"הסבר על המוצר",
   "productName":"שם המוצר",
   "products":"מוצרים",
-  "manageProductsInfo":".במסך זה תוכל לנהל את המוצרים שהעסק שלך מציע. הלקוחות יראו אותם למטה בדף העסק שלך",
+  "manageProductsInfo":"במסך זה תוכל לנהל את המוצרים שהעסק שלך מציע. הלקוחות יראו אותם למטה בדף העסק שלך",
   "ourProducts":"המוצרים שלנו",
   "allowNotLoggedInbookings": "אפשר הזמנות לכולם",
   "allowNotLoggedInbookingsInfo":"באישור הגדרה זו כולם יוכלו להזמין אליך תור גם ללא חשבון באפליקציה - אופצה זו עלולה לגרור הזמנות פיקטיביות שסתם יתפסו תורים ולכן לא מומלצת",
@@ -849,6 +849,14 @@
   "themeExplain":"ככה הלקוחות יראו את העסק שלך",
   "inTreatment":"כרגע בטיפול",
   "signUpHeadline":"הרשמה",
-  "thereIsProblem":"חלה בעיה"
-
+  "thereIsProblem":"חלה בעיה",
+  "notFoundBusiness":"עסק זה לא קיים",
+  "FeatureAvialableOnlyInApp":"פיצ'ר זה זמין רק באפליקציה",
+  "storyTitle":"כותרת לסטורי",
+  "leaveDetailsAndWeApprouch":"אנא השאירו פרטים ונחזור אליכם בהקדם",
+  "wantToContact":"האם אתה רוצה שניצור איתך קשר?",
+  "leaveDetails":"השאר פרטים",
+  "businessOwnerName":"שם בעל העסק",
+  "notifyOnOrderNearDeadline":"הזמנה בסמוך למועד",
+  "notifyOnCancelNearDeadline":"ביטול בסמוך למועד"
 }

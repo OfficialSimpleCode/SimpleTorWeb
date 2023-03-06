@@ -852,5 +852,14 @@
   "userWantsToDelete":"Request for deletion",
   "userWantDeleteContent":"CLIENT wants to delete his order on DATE",
   "signUpHeadline":"Sign Up",
-  "thereIsProblem":"There's a problem"
+  "thereIsProblem":"There's a problem",
+  "notFoundBusiness":"This business does not exist",
+  "FeatureAvialableOnlyInApp":"This feature is only available in the app",
+  "storyTitle":"Story title",
+  "leaveDetailsAndWeApprouch":"Please leave details and we will get back to you as soon as possible",
+  "wantToContact":"Do you want us to contact you?",
+  "leaveDetails":"Leave details",
+  "businessOwnerName":"Name of business owner",
+  "notifyOnOrderNearDeadline":"Order near the deadline",
+  "notifyOnCancelNearDeadline":"Cancellation near the deadline"  
 }
