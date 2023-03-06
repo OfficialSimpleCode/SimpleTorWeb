@@ -341,7 +341,7 @@
   "timeAndNetworkError":"ישנה בעיה בזמני המכשיר או באינטרנט",
   "checkDateTime":"בדוק שהשעה מכוונת וגם שהאינטרנט פועל",
   "everythingOk":"במידה והכל נכון",
-  "checkVpn":"בדוק האם שירותי VPN מופעלים״",
+  "checkVpn":"בדוק אם שירותי VPN מופעלים",
   "ifSoTurnOf":"במידה וכן - לכבותם",
   "sunday":"יום ראשון",
   "saturday":"יום שבת",
@@ -590,7 +590,7 @@
   "activeSubs":"מנויים זמינים",
   "subscriptions":"מנויים",
   "waitingList":"רשימת המתנה",
-  "waitingListExplain":"רשימה ריקה, אין כרגע לקוחות ברשימה נציג לך את הלקוחות בגע שיתווספו.",
+  "waitingListExplain":"רשימה ריקה, אין כרגע לקוחות ברשימה נציג לך את הלקוחות ברגע שיתווספו.",
   "allowedNotificationsTitle":"אפשר התראות",
   "doYouWantToActiveateNotification":"האם ברצונך להפעיל את ההתראות?",
   "pastBookings":"הזמנות מהעבר",
@@ -858,5 +858,7 @@
   "leaveDetails":"השאר פרטים",
   "businessOwnerName":"שם בעל העסק",
   "notifyOnOrderNearDeadline":"הזמנה בסמוך למועד",
-  "notifyOnCancelNearDeadline":"ביטול בסמוך למועד"
+  "notifyOnCancelNearDeadline":"ביטול בסמוך למועד",
+  "download":"התקן",
+  "downloadInStore":"לחווית שימוש מיטבית הורד את האפליקציה."
 }

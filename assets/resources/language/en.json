@@ -861,5 +861,7 @@
   "leaveDetails":"Leave details",
   "businessOwnerName":"Name of business owner",
   "notifyOnOrderNearDeadline":"Order near the deadline",
-  "notifyOnCancelNearDeadline":"Cancellation near the deadline"  
+  "notifyOnCancelNearDeadline":"Cancellation near the deadline",
+  "download":"Download",
+  "downloadInStore":"For the best user experience, download the app."
 }
