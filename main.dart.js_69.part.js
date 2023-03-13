@@ -1,116 +1,155 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-aRB(d,e,f,g){var x=new A.hD(null)
-x.oq("0",null)
-return new B.Ql(e,d,f,x,g,null)},
-Ql:function Ql(d,e,f,g,h,i){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.r=g
-_.x=h
-_.y=null
-_.a=i},
-W6:function W6(d){this.a=null
-this.b=d
-this.c=null},
-bhM:function bhM(d,e){this.a=d
-this.b=e},
-bhO:function bhO(d,e){this.a=d
-this.b=e},
-bhN:function bhN(d,e,f){this.a=d
-this.b=e
-this.c=f}},C,A,E,F,D
-B=a.updateHolder(c[61],B)
-C=c[2]
-A=c[0]
-E=c[66]
-F=c[64]
-D=c[70]
-B.Ql.prototype={
-N(){return new B.W6(C.l)}}
-B.W6.prototype={
-a0(){var x,w,v,u=this,t=u.a,s=t.r
-t=A.mL(t.d)
-s.a=t==null?0:t
-t=u.a
-s=t.r
-x=t.c
-w=x==null
-if(w){v=$.a4().e
-v===$&&A.b()
-v=v.c}else v=x
-s.b=v
-if(w){s=$.a4().e
-s===$&&A.b()
-s=s.c}else s=x
-t.y=new E.yI(s,1.4,!1,u.gP7(),null)
-u.ae()},
-P8(d){this.a.r.b=d},
-q(d){var x=null
-return A.bG(x,2,x,A.w(this.a.r.j(0),x,x,x,x,x,x,x,A.az(x,x,x,x,x,x,x,x,x,x,x,17*this.a.x,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,C.x,x),x,x,x,x,x,x,!0,new B.bhM(this,d),x,new A.G(14,4,14,4),20,!0,x)},
-mn(d){return this.akH(d)},
-akH(d){var x=0,w=A.j(y.f),v=this,u,t,s,r,q,p,o,n,m,l,k,j,i,h
-var $async$mn=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:l=C.e.ar(v.a.r.a,2)
-k=C.c.fl(l,".")
-j=A.ry(C.c.a7(l,k+1,k+2),null)
-i=(j==null?0:j)*10
-h=A.ry(C.c.a7(l,0,k),null)
-if(h==null)h=0
-j=v.a.y
-j.toString
-u=A.l("cancel",!0)
-t=A.l("save",!0)
-s=A.az(null,null,null,null,null,null,null,null,null,null,null,null,null,null,C.U,null,null,!0,null,null,null,null,null,null,null,null)
-r=A.az(null,null,null,null,null,null,null,null,null,null,null,null,null,null,C.U,null,null,!0,null,null,null,null,null,null,null,null)
-q=A.p(d)
-q=A.a([new F.Fx(A.Q(C.o,A.w(".",null,null,null,null,null,null,null,A.az(null,null,A.p(d).ax.f,null,null,null,null,null,null,null,null,20,null,null,null,null,null,!0,null,null,null,null,null,null,null,null),null,null,null),C.f,q.ax.CW,null,null,null,null,null,null,null,null,null,null))],y.c)
-p=y.i
-p=A.cY(d,C.cx,y.p).n2()?A.a([D.jK(0,90,i,10,null),D.jK(0,1000,h,1,null)],p):A.a([D.jK(0,1000,h,1,null),D.jK(0,90,i,10,null)],p)
-o=A.az(null,null,A.p(d).ax.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,!0,null,null,null,null,null,null,null,null)
-n=$.bw()
-m=A.p(d)
-x=2
-return A.d(D.a9J(new D.rs(p),A.p(d).ax.CW,u,r,t,s,q,1.1,m.ax.CW,n*0.3,!1,1,new B.bhO(v,d),null,o,1.45,j).wm(0,d,y.b),$async$mn)
-case 2:return A.h(null,w)}})
-return A.i($async$mn,w)}}
-var z=a.updateTypes(["~(@)","~(mG,H<@>)"])
-B.bhM.prototype={
-$0(){var x=0,w=A.j(y.f),v,u=this
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:x=3
-return A.d(u.a.mn(u.b),$async$$0)
-case 3:v=e
+arc(d){return B.cbS(d)},
+cbS(d){var x=0,w=A.j(y.b),v=1,u,t,s,r,q,p,o,n,m
+var $async$arc=A.e(function(e,f){if(e===1){u=f
+x=v}while(true)switch(x){case 0:v=3
+r=$.ac()
+t=F.wl(null,r.gcf().split("-")[1],null,!0,!1,B.cbU())
+t.at=new B.btk()
+q=A.k("deleteUser",!0)
+p=r.c.z.length>0?A.t(A.k("forDeleteUser1",!0),null,null,null,null,null,null,null,null,C.n,null,null):A.v(null,null,null)
+x=6
+return A.d(A.ls(A.Y(A.a([p,A.t(A.k("forDeleteUser2",!0),null,null,null,null,null,null,null,null,C.n,null,null),A.v(null,20,null),t],y.u),C.i,C.j,C.f),d,new B.btl(d),new B.btm(t,d),!0,q),$async$arc)
+case 6:s=f
+x=J.q(s,"OK")?7:8
+break
+case 7:q=A.af(d,!1)
+p=B.qB(d)
+o=A.al(0,0,0,0,0,8)
+x=9
+return A.d(A.cO("assets/animations/delete_animation.json.zip",d,!1,C.a_,p,null,A.k("UserDeleted",!0),q,!0,!1,!0,!0,o).cO(),$async$arc)
+case 9:case 8:v=1
+x=5
+break
+case 3:v=2
+m=u
+x=5
+break
+case 2:x=1
+break
+case 5:return A.h(null,w)
+case 1:return A.f(u,w)}})
+return A.i($async$arc,w)},
+cfo(d){if($.ac().gcf()!==d)return A.k("noMatchPhoneNumbers",!0)
+return null},
+qB(d){var x=0,w=A.j(y.e),v,u,t,s
+var $async$qB=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:s=y.e
+x=3
+return A.d(A.cU(J.b5(A.aD("userHelper.8",0),new B.btp(),s),new B.btq(),s,y.E),$async$qB)
+case 3:if(!f){$.aE().a2(C.W,"Failed to load the library UserHelper",null,null)
+v=!1
+x=1
+break}u=$.ac()
+x=4
+return A.d(u.BV(),$async$qB)
+case 4:s=u.c.y
+t=y.w
+x=5
+return A.d(A.Eu(A.aj(new A.aO(s,A.y(s).i("aO<1>")),!0,t),new B.btr(d)),$async$qB)
+case 5:x=6
+return A.d(A.Eu(A.aj(u.c.z,!0,t),new B.bts()),$async$qB)
+case 6:x=7
+return A.d(A.Zy(),$async$qB)
+case 7:A.as("userHelper.8")
+x=8
+return A.d(D.dE().uY(),$async$qB)
+case 8:A.as("userHelper.8")
+x=9
+return A.d(D.dE().Ku(u.c),$async$qB)
+case 9:A.as("userHelper.8")
+x=10
+return A.d(D.dE().io(),$async$qB)
+case 10:v=!0
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$$0,w)},
-$S:2}
-B.bhO.prototype={
-$2(d,e){var x,w,v=this.a
-v.M(new B.bhN(v,this.b,e))
-x=v.a
-w=x.e
-if(w!=null){w.sl(0,x.r)
-v.a.e.an()}},
-$S:z+1}
-B.bhN.prototype={
-$0(){var x,w,v,u=this.a,t=u.a
-t.toString
-x=this.c
-x=A.cY(this.b,C.cx,y.p).n2()?A.r(x[1])+"."+A.r(x[0]):A.r(x[0])+"."+A.r(x[1])
-w=u.a.y.c
-v=new A.hD(w)
-v.oq(x,w)
-t.r=v
-u.a.toString},
-$S:0};(function installTearOffs(){var x=a._instance_1u
-x(B.W6.prototype,"gP7","P8",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.Ql,A.P)
-x(B.W6,A.T)
-w(A.cw,[B.bhM,B.bhN])
-x(B.bhO,A.d0)})()
-A.ct(b.typeUniverse,JSON.parse('{"Ql":{"P":[],"m":[]},"W6":{"T":["Ql"]}}'))
-var y={p:A.E("mg"),i:A.E("B<Fi>"),c:A.E("B<Fx>"),b:A.E("@"),f:A.E("~")}}
-$__dart_deferred_initializers__["gXIL3K5pYEteQ2PExmHTWxvtHH0="] = $__dart_deferred_initializers__.current
+return A.i($async$qB,w)},
+btk:function btk(){},
+btm:function btm(d,e){this.a=d
+this.b=e},
+btl:function btl(d){this.a=d},
+btp:function btp(){},
+btq:function btq(){},
+btr:function btr(d){this.a=d},
+bto:function bto(d,e){this.a=d
+this.b=e},
+bts:function bts(){},
+btn:function btn(d){this.a=d}},A,J,E,F,C,D
+B=a.updateHolder(c[41],B)
+A=c[0]
+J=c[1]
+E=c[26]
+F=c[77]
+C=c[2]
+D=c[3]
+var z=a.updateTypes(["l?(l)"])
+B.btk.prototype={
+$1(d){if(d!==$.ac().gcf())return A.k("noMatchNumbers",!0)
+return null},
+$S:168}
+B.btm.prototype={
+$0(){if(this.a.d!==$.ac().gcf())return
+A.af(this.b,!1).ao("OK")},
+$S:0}
+B.btl.prototype={
+$0(){A.af(this.a,!1).ao("Cancel")
+return null},
+$S:0}
+B.btp.prototype={
+$1(d){return!0},
+$S:28}
+B.btq.prototype={
+$2(d,e){return!1},
+$S:7}
+B.btr.prototype={
+$1(d){return this.ahY(d)},
+ahY(d){var x=0,w=A.j(y.F),v=this
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:x=$.ac().c.y.h(0,d)===1?2:3
+break
+case 2:x=4
+return A.d(J.b5(A.aD("managerHelper.7",0),new B.bto(d,v.a),y.e),$async$$1)
+case 4:case 3:return A.h(null,w)}})
+return A.i($async$$1,w)},
+$S:48}
+B.bto.prototype={
+$1(d){var x=0,w=A.j(y.e),v,u=this
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:A.as("managerHelper.7")
+x=3
+return A.d(E.km().Ct($.ac().gcf(),u.a,u.b,!0),$async$$1)
+case 3:v=f
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$$1,w)},
+$S:4}
+B.bts.prototype={
+$1(d){return this.ahX(d)},
+ahX(d){var x=0,w=A.j(y.F)
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:x=2
+return A.d(J.b5(A.aD("managerHelper.7",0),new B.btn(d),y.e),$async$$1)
+case 2:return A.h(null,w)}})
+return A.i($async$$1,w)},
+$S:48}
+B.btn.prototype={
+$1(d){var x=0,w=A.j(y.e),v,u=this
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:A.as("managerHelper.7")
+x=3
+return A.d(E.km().Cl(u.a,"","",""),$async$$1)
+case 3:v=f
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$$1,w)},
+$S:4};(function installTearOffs(){var x=a._static_1
+x(B,"cbU","cfo",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.bH,[B.btk,B.btp,B.btr,B.bto,B.bts,B.btn])
+x(A.ci,[B.btm,B.btl])
+w(B.btq,A.cz)})()
+var y={u:A.B("A<m>"),F:A.B("aM"),E:A.B("R"),w:A.B("l"),e:A.B("G"),b:A.B("@")}}
+$__dart_deferred_initializers__["vTwQHE1dSBsFcJj5t0aT0v8BKMU="] = $__dart_deferred_initializers__.current
