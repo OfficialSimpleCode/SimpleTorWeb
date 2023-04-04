@@ -10,9 +10,9 @@ A=c[0]
 B=c[2]
 C.vP.prototype={
 u(d){var x=this,w=null,v=x.d,u=x.e,t=A.t(d),s=A.fo("assets/box.webp",w,w,v,w,w,u),r=y.a
-return A.cM(A.al(A.a([A.G(A.ch(B.V,A.a([new A.uS(new A.zw(t.ax.c,B.hL,w,B.jh),s,w),new A.d6(B.eV,w,w,A.A(x.c,w,w,w,w,w,w,w,A.t(d).p3.z.d5(x.f),B.v,w,w),w)],r),B.w,B.Q,w),v,u)],r),B.i,B.J,B.h),w,B.m,w,w,B.z)}}
+return A.cM(A.al(A.a([A.F(A.ch(B.V,A.a([new A.uS(new A.zw(t.ax.c,B.hL,w,B.jh),s,w),new A.d6(B.eV,w,w,A.A(x.c,w,w,w,w,w,w,w,A.t(d).p3.z.d5(x.f),B.u,w,w),w)],r),B.w,B.Q,w),v,u)],r),B.i,B.I,B.h),w,B.m,w,w,B.z)}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
 x(C.vP,A.ag)})()
 A.dd(b.typeUniverse,JSON.parse('{"vP":{"ag":[],"e":[]}}'))
-var y={a:A.H("B<e>")}}
-$__dart_deferred_initializers__["t5Bp+DUzp66uhMH7ZG1borsMkEw="] = $__dart_deferred_initializers__.current
+var y={a:A.G("B<e>")}}
+$__dart_deferred_initializers__["UJGBOpQC9uV0dsa/uG14O2eZRlY="] = $__dart_deferred_initializers__.current
