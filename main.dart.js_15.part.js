@@ -8,19 +8,19 @@ A=c[2]
 J=c[1]
 C.kK.prototype={
 gul(){return!0},
-X0(d){var y=d==null?this.a:d
+X1(d){var y=d==null?this.a:d
 return new C.kK(this.b,this.c,y)},
 gmD(){var y=this.a.b
 return new B.M(y,y,y,y)},
 dg(d,e){var y=this.a.dg(0,e)
 return new C.kK(this.b*e,this.c.au(0,e),y)},
 fZ(d,e){var y,x
-if(d instanceof C.kK){y=B.pA(d.c,this.c,e)
+if(d instanceof C.kK){y=B.pB(d.c,this.c,e)
 y.toString
 x=B.c4(d.a,this.a,e)
 return new C.kK(d.b,y,x)}return this.Hz(d,e)},
 h_(d,e){var y,x
-if(d instanceof C.kK){y=B.pA(this.c,d.c,e)
+if(d instanceof C.kK){y=B.pB(this.c,d.c,e)
 y.toString
 x=B.c4(this.a,d.a,e)
 return new C.kK(d.b,y,x)}return this.HA(d,e)},
@@ -34,7 +34,7 @@ return y},
 m6(d){return this.fH(d,null)},
 lW(d,e,f,g){d.cs(this.c.fu(e),f)},
 gld(){return!0},
-a5J(a1,a2,a3,a4){var y,x,w,v,u,t,s,r,q,p,o,n,m=a2.AG(),l=m.a,k=m.b,j=m.e,i=m.f,h=m.c,g=m.r,f=g*2,e=h-f,d=m.w,a0=new B.C(e,k,e+f,k+d*2)
+a5K(a1,a2,a3,a4){var y,x,w,v,u,t,s,r,q,p,o,n,m=a2.AG(),l=m.a,k=m.b,j=m.e,i=m.f,h=m.c,g=m.r,f=g*2,e=h-f,d=m.w,a0=new B.C(e,k,e+f,k+d*2)
 f=m.x
 e=f*2
 y=h-e
@@ -67,11 +67,11 @@ if(h==null||f<=0||g===0)d.cs(u,v)
 else{w=x.b
 y=B.aF(0,f+w*2,g)
 y.toString
-switch(i.a){case 0:d.dV(x.a5J(d,u,Math.max(0,h+w-y),y),v)
+switch(i.a){case 0:d.dV(x.a5K(d,u,Math.max(0,h+w-y),y),v)
 break
-case 1:d.dV(x.a5J(d,u,Math.max(0,h-w),y),v)
+case 1:d.dV(x.a5K(d,u,Math.max(0,h-w),y),v)
 break}}},
-iF(d,e,f){return this.zS(d,e,0,0,null,f)},
+iG(d,e,f){return this.zS(d,e,0,0,null,f)},
 j(d,e){var y=this
 if(e==null)return!1
 if(y===e)return!0
@@ -81,4 +81,4 @@ gD(d){return B.ap(this.a,this.c,this.b,A.a,A.a,A.a,A.a,A.a,A.a,A.a,A.a,A.a,A.a,A
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(C.kK,B.j1)})()
 B.dd(b.typeUniverse,JSON.parse('{"kK":{"j1":[],"dX":[]}}'))}
-$__dart_deferred_initializers__["KqGoWw9TGT4sDKxM7kzZfFtWLrI="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["wX5d8+dJFLM9kcnTP46T96z6BvQ="] = $__dart_deferred_initializers__.current

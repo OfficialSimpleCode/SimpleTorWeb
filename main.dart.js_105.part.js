@@ -11,33 +11,28 @@ case 4:x=t.o(f,"OK")?2:3
 break
 case 2:v=A.aD(d,!1)
 x=5
-return A.f(A.e7("assets/animations/success_animation.json.zip",d,!1,C.aH,B.yf(d),null,A.p("logoutSuccessfully",!0),v,!0,!1,!0,!1,C.b3).eC(),$async$atd)
-case 5:case 3:return A.j(null,w)}})
+return A.f(A.e7("assets/animations/success_animation.json.zip",d,!1,C.aH,B.a_I(d),null,A.p("logoutSuccessfully",!0),v,!0,!1,!0,!1,C.b3).eC(),$async$atd)
+case 5:A.oR(d).Lf()
+case 3:return A.j(null,w)}})
 return A.k($async$atd,w)},
-yf(d){var x=0,w=A.l(y.e),v,u
-var $async$yf=A.h(function(e,f){if(e===1)return A.i(f,w)
+a_I(d){var x=0,w=A.l(y.e),v,u
+var $async$a_I=A.h(function(e,f){if(e===1)return A.i(f,w)
 while(true)switch(x){case 0:u=y.e
 x=3
-return A.f(A.ed(J.br(A.bb("userHelper.9",0),new B.bvq(),u),new B.bvr(),u,y.o),$async$yf)
+return A.f(A.ed(J.br(A.bb("userHelper.9",0),new B.bvq(),u),new B.bvr(),u,y.o),$async$a_I)
 case 3:if(!f){$.aY().aA(C.a5,"Failed to load the library UserHelper",null,null)
 v=!1
 x=1
 break}x=4
-return A.f($.af().np(),$async$yf)
-case 4:x=5
-return A.f($.bZ().yD(),$async$yf)
-case 5:x=6
-return A.f($.as().D_(),$async$yf)
-case 6:x=7
-return A.f(A.a_I(),$async$yf)
-case 7:A.b6("userHelper.9")
-x=8
-return A.f(D.e4().iY(),$async$yf)
-case 8:v=!0
+return A.f(A.a_H(),$async$a_I)
+case 4:A.b6("userHelper.9")
+x=5
+return A.f(D.e4().ia(),$async$a_I)
+case 5:v=!0
 x=1
 break
 case 1:return A.j(v,w)}})
-return A.k($async$yf,w)},
+return A.k($async$a_I,w)},
 bxj:function bxj(d){this.a=d},
 bxk:function bxk(d){this.a=d},
 bvq:function bvq(){},
@@ -68,5 +63,5 @@ $S:11};(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.dH,[B.bxj,B.bxk])
 w(B.bvq,A.ca)
 w(B.bvr,A.df)})()
-var y={l:A.G("B<e>"),o:A.G("U"),e:A.G("K"),b:A.G("@"),f:A.G("~")}}
-$__dart_deferred_initializers__["EgjfZmeJAMXWASsJiS3HPo81anY="] = $__dart_deferred_initializers__.current
+var y={l:A.F("B<e>"),o:A.F("U"),e:A.F("K"),b:A.F("@"),f:A.F("~")}}
+$__dart_deferred_initializers__["gszN4TduGJMRZpgZmWgwo0o5TyE="] = $__dart_deferred_initializers__.current
