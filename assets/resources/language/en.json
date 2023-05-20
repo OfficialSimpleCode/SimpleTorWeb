@@ -1459,6 +1459,8 @@
   "mesages":"Messages",
   "deleteExpiredBookingsWarning":"This will delete all existing history of your booking and no more expired events will be saved. Additionally, you will not be able to see data about your business.\n\nThere will be no possibility to restore the data after deletion",
   "theTimeIsOverCreationOfWorker":"The selected time is beyond the date the worker was created",
-  "PleasePutPhone":"Please enter a number"
+  "PleasePutPhone":"Please enter a number",
+  "theDataDoesntSaved":"Your information has not been saved",
+  "turnTheSavingData":"To save the information, turn it on in the settings - Save expired orders"
 }
 

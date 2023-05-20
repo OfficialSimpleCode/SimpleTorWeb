@@ -1,21 +1,14 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A={
-aqV(d){return new A.aqU(d,J.oF(d.$1(C.z3)))},
-BN:function BN(){},
-aqU:function aqU(d,e){this.c=d
-this.a=e}},B,C,J
-A=a.updateHolder(c[75],A)
-B=c[0]
-C=c[141]
-J=c[1]
-A.BN.prototype={$icX:1}
-A.aqU.prototype={
-av(d,e){return this.c.$1(e)}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.BN,B.X)
-y(A.aqU,A.BN)})()
-B.cQ(b.typeUniverse,JSON.parse('{"BN":{"X":[],"cX":["X"]},"aqU":{"BN":[],"X":[],"cX":["X"]}}'));(function constants(){var y=a.makeConstList
-C.afe=B.a(y([]),B.A("B<e_>"))
-C.ajk=new B.ah(0,{},C.afe,B.A("ah<e_,aL>"))
-C.z3=new B.eX(C.ajk,B.A("eX<e_>"))})()}
-$__dart_deferred_initializers__["GMCxiqnJatI8Aa2DT1ZN82/aw4g="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
+aa7(){var x=0,w=A.l(y.b)
+var $async$aa7=A.h(function(d,e){if(d===1)return A.i(e,w)
+while(true)switch(x){case 0:x=2
+return A.e(B.dh.hl("HapticFeedback.vibrate","HapticFeedbackType.selectionClick",y.b),$async$aa7)
+case 2:return A.j(null,w)}})
+return A.k($async$aa7,w)}},A,B
+C=a.updateHolder(c[82],C)
+A=c[0]
+B=c[2]
+var z=a.updateTypes([])
+var y={b:A.z("~")}}
+$__dart_deferred_initializers__["p+yDn6oSrzGQ8LnuDxytWCAt0pM="] = $__dart_deferred_initializers__.current
