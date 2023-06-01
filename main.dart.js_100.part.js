@@ -76,31 +76,31 @@ A=a.updateHolder(c[63],A)
 C=c[2]
 B=c[0]
 A.bcC.prototype={
-as9(d){var x=this.c
+as8(d){var x=this.c
 return d.Ar(this.d,x,x)},
 m(d){var x=this
 return"SliverGridGeometry("+C.b.c0(B.a(["scrollOffset: "+B.u(x.a),"crossAxisOffset: "+B.u(x.b),"mainAxisExtent: "+B.u(x.c),"crossAxisExtent: "+B.u(x.d)],y.x),", ")+")"}}
 A.bcD.prototype={}
 A.VW.prototype={
-asF(d){var x=this.b
+asE(d){var x=this.b
 if(x>0)return Math.max(0,this.a*C.e.fg(d/x)-1)
 return 0},
-aL0(d){var x,w,v=this
+aL_(d){var x,w,v=this
 if(v.f){x=v.c
 w=v.e
 return v.a*x-d-w-(x-w)}return d},
 U9(d){var x=this,w=x.a,v=C.c.a5(d,w)
-return new A.bcC(C.c.cA(d,w)*x.b,x.aL0(v*x.c),x.d,x.e)},
-ajY(d){var x
+return new A.bcC(C.c.cA(d,w)*x.b,x.aL_(v*x.c),x.d,x.e)},
+ajX(d){var x
 if(d===0)return 0
 x=this.b
 return x*(C.c.cA(d-1,this.a)+1)-(x-this.d)}}
 A.ajN.prototype={}
 A.JZ.prototype={
-m(d){return"crossAxisOffset="+B.u(this.w)+"; "+this.ays(0)}}
+m(d){return"crossAxisOffset="+B.u(this.w)+"; "+this.ayr(0)}}
 A.aie.prototype={
 fI(d){if(!(d.e instanceof A.JZ))d.e=new A.JZ(!1,null,null)},
-sat9(d){var x=this
+sat8(d){var x=this
 if(x.dD===d)return
 if(B.U(d)!==B.U(x.dD)||d.mM(x.dD))x.U()
 x.dD=d},
@@ -117,7 +117,7 @@ v=w+a6.Q
 u=a4.dD.Jx(a6)
 t=u.b
 s=t>1e-10?u.a*C.e.cA(w,t):0
-r=isFinite(v)?u.asF(v):a5
+r=isFinite(v)?u.asE(v):a5
 t=a4.Y$
 if(t!=null){t=t.e
 t.toString
@@ -133,7 +133,7 @@ p.toString
 o=C.c.e3(s-t,0,a4.ad$)
 a4.xC(o,r==null?0:C.c.e3(p-r,0,a4.ad$))}else a4.xC(0,0)
 n=u.U9(s)
-if(a4.Y$==null)if(!a4.a02(s,n.a)){m=u.ajY(a7.gFB())
+if(a4.Y$==null)if(!a4.a02(s,n.a)){m=u.ajX(a7.gFB())
 a4.id=B.my(a5,!1,a5,a5,m,0,0,0,m,a5)
 a7.xP()
 return}l=n.a
@@ -150,7 +150,7 @@ t=y.t
 i=a5
 for(;j>=s;--j){h=u.U9(j)
 p=h.c
-g=a4.amR(a6.Ar(h.d,p,p))
+g=a4.amQ(a6.Ar(h.d,p,p))
 f=g.e
 f.toString
 t.a(f)
@@ -160,7 +160,7 @@ f.w=h.b
 if(i==null)i=g
 k=Math.max(k,e+p)}if(i==null){p=a4.Y$
 p.toString
-p.fC(n.as9(a6))
+p.fC(n.as8(a6))
 i=a4.Y$
 p=i.e
 p.toString
@@ -185,7 +185,7 @@ a0.toString
 a0=q.a(a0).b
 a0.toString
 a0=a0!==j}else a0=!0
-if(a0){g=a4.amP(d,i)
+if(a0){g=a4.amO(d,i)
 if(g==null)break}else g.fC(d)
 d=g.e
 d.toString
@@ -207,18 +207,18 @@ a4.id=B.my(a3,a1>a2||x>0||a6.f!==0,a5,a5,a1,0,a2,0,a1,a5)
 if(a1===k)a7.R8=!0
 a7.xP()}}
 A.R2.prototype={
-ajt(d){return new A.ajM(this.p3,this.p4,null)}}
+ajs(d){return new A.ajM(this.p3,this.p4,null)}}
 A.ajM.prototype={
 b2(d){var x=new A.aie(this.f,y.v.a(d),B.r(y.e,y.g),0,null,null,B.aT(y.d))
 x.b3()
 return x},
-b5(d,e){e.sat9(this.f)},
+b5(d,e){e.sat8(this.f)},
 a1I(d,e,f,g,h){var x,w
-this.ayt(d,e,f,g,h)
+this.ays(d,e,f,g,h)
 x=this.f.Jx(d)
 w=this.d.gAZ()
 w.toString
-w=x.ajY(w)
+w=x.ajX(w)
 return w}}
 var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(B.T,[A.bcC,A.bcD,A.ajN])
@@ -229,4 +229,4 @@ w(A.R2,B.Ol)
 w(A.ajM,B.q3)})()
 B.cG(b.typeUniverse,JSON.parse('{"JZ":{"ir":[],"uU":[],"fW":["O"],"pw":[],"ek":[]},"aie":{"pT":[],"e1":[],"af":["O","ir"],"P":[],"aj":[],"aS":[],"af.1":"ir","af.0":"O"},"R2":{"R":[],"d":[]},"ajM":{"q3":[],"aZ":[],"d":[]}}'))
 var y={d:B.A("eh"),x:B.A("C<f>"),g:B.A("O"),z:B.A("q2"),t:B.A("JZ"),v:B.A("E3"),c:B.A("ir"),e:B.A("v")}}
-$__dart_deferred_initializers__["2lKht2cdV39/5PYtmfnitBiYljE="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["XE7ZfndiJ/usdOijlji9JQ1nMuE="] = $__dart_deferred_initializers__.current

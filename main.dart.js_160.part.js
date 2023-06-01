@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C={
-cdX(){return new C.AY(null)},
+cdW(){return new C.AY(null)},
 AY:function AY(d){this.a=d},
 aIw:function aIw(d,e){this.a=d
 this.b=e},
@@ -61,8 +61,8 @@ o=o.p1.h(0,B.ce)
 o.toString
 q=A.a2(n,A.J(p+": "+B.c.m(o),n,n,n,n,n,n,n,A.t(d).p3.r.cD(B.bg),B.v,n,n),B.i,n,n,n,n,n,n,new A.H(0,0,0,20),n,n,n,q*0.7)}else q=A.z(n,n,n)
 return A.jp(u,t.ax.CW,A.cy(A.a8(A.a([s,l,r,q],x),B.h,B.j,B.f),n,n),n,!1,n,n,n)},
-Kr(d,e){return this.av5(d,e)},
-av5(d,e){var x=0,w=A.l(y.h),v,u,t
+Kr(d,e){return this.av4(d,e)},
+av4(d,e){var x=0,w=A.l(y.h),v,u,t
 var $async$Kr=A.h(function(f,g){if(f===1)return A.i(g,w)
 while(true)switch(x){case 0:u=e.bfK(d,3)
 t=A.n("save",!0)
@@ -73,13 +73,13 @@ x=1
 break
 case 1:return A.j(v,w)}})
 return A.k($async$Kr,w)},
-b1q(d,e){var x,w,v=null,u=$.ak()
+b1p(d,e){var x,w,v=null,u=$.ak()
 if(e===u.z.length)x=A.z(v,v,v)
 else{x=A.a([25],y.k)
 w=A.Q(B.e.a8(127.5),158,158,158)
 x=A.bD(v,A.GF(B.ht,A.a2(B.p,new A.ah(G.wB,A.d0(A.a8(A.a([A.aM(B.fd,v,v,v,60),A.J(A.n("preferableHorizintalImage",!0)+("\n("+A.n("maximum",!0)+" "+(e-u.z.length)+" "+A.n("images",!0)+")"),v,v,v,v,v,v,v,A.t(d).p3.r,B.v,v,v)],y.u),B.h,B.G,B.f),v,B.n,v,v,v,B.C),v),B.i,v,v,v,v,v,v,v,v,v,v,v),w,x,B.hE,new A.aA(20,20),3),B.n,!1,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,v,new C.aIs(d),v,v,v,v,v,v,v,!1,B.E)}return x},
-Ko(d,e){return this.av_(d,e)},
-av_(d,e){var x=0,w=A.l(y.h),v,u
+Ko(d,e){return this.auZ(d,e)},
+auZ(d,e){var x=0,w=A.l(y.h),v,u
 var $async$Ko=A.h(function(f,g){if(f===1)return A.i(g,w)
 while(true)switch(x){case 0:u=A.n("deleteImage",!0)
 x=3
@@ -91,7 +91,7 @@ case 1:return A.j(v,w)}})
 return A.k($async$Ko,w)}}
 var z=a.updateTypes([])
 C.aIw.prototype={
-$2(d,e){var x,w,v=null,u=$.ak(),t=u.z,s=e===t.length?this.a.b1q(d,this.b):t[e]
+$2(d,e){var x,w,v=null,u=$.ak(),t=u.z,s=e===t.length?this.a.b1p(d,this.b):t[e]
 t=A.dp(new A.aA(20,20))
 x=$.a4h()
 w=$.jZ()
@@ -109,7 +109,7 @@ case 4:x=e===!0?2:3
 break
 case 2:u=A.aw(t,!1)
 x=5
-return A.e(A.f4("assets/animations/delete_animation.json.zip",t,!1,B.aS,J.bX(A.bp("settingsHelper.3",0),new C.aIt(t,s),y.e),null,A.n("deletedImage",!0),u,!0,!1,!0,!0,B.b9).fd(),$async$$0)
+return A.e(A.f4("assets/animations/delete_animation.json.zip",t,!1,B.aS,J.bW(A.bp("settingsHelper.3",0),new C.aIt(t,s),y.e),null,A.n("deletedImage",!0),u,!0,!1,!0,!0,B.b9).fd(),$async$$0)
 case 5:case 3:return A.j(null,w)}})
 return A.k($async$$0,w)},
 $S:2}
@@ -132,7 +132,7 @@ while(true)switch(x){case 0:u=v.b
 t=v.c
 x=2
 return A.e(v.a.Kr(u,t),$async$$0)
-case 2:if(e===!0)J.bX(A.bp("settingsHelper.3",0),new C.aIu(t,u),y.F)
+case 2:if(e===!0)J.bW(A.bp("settingsHelper.3",0),new C.aIu(t,u),y.F)
 return A.j(null,w)}})
 return A.k($async$$0,w)},
 $S:11}
@@ -177,4 +177,4 @@ w(A.cX,[C.aIv,C.aIx,C.aIA,C.aIB,C.aIs,C.aIy,C.aIz])
 w(A.cv,[C.aIt,C.aIu])})()
 A.cG(b.typeUniverse,JSON.parse('{"AY":{"R":[],"d":[]}}'))
 var y={u:A.A("C<d>"),k:A.A("C<Y>"),F:A.A("aG"),m:A.A("mx"),o:A.A("nL"),e:A.A("I"),B:A.A("v"),h:A.A("I?"),v:A.A("~")};(function constants(){F.a0L=new A.AD(B.zo,null)})()}
-$__dart_deferred_initializers__["/5OkCl+AIKjQvnOhHLEaBTm8+U0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["TEhJLmtXs0sk/Q/GGq6oQ7pLLhU="] = $__dart_deferred_initializers__.current

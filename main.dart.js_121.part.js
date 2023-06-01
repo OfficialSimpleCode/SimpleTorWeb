@@ -26,8 +26,8 @@ C=c[2]
 var z=a.updateTypes(["HG(D)"])
 B.bL9.prototype={
 $1(d){A.bi("invoicePage")
-return D.cil(this.b,this.a)},
+return D.cik(this.b,this.a)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(B.bL9,A.cv)})()
 var y={b:A.A("@"),a:A.A("T?")}}
-$__dart_deferred_initializers__["kPrQd7dUjIctywuBVkfYdLCTfM4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["cLxUFcVbkfByODFjpI/YyY1G8/w="] = $__dart_deferred_initializers__.current

@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-cl4(d){return new B.Dx(d,null)},
+cl3(d){return new B.Dx(d,null)},
 Dx:function Dx(d,e){this.c=d
 this.a=e},
 b5Z:function b5Z(d){this.a=d},
@@ -64,12 +64,12 @@ x.H(0,new B.b6_(w))
 u=w.h(0,this.c)
 t=A.ba(q,y.X)
 x=A.t(d)
-v=A.k_(q,q,!0,q,q,1,q,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,A.cd(A.n("recurringBookings",!0),q,!1,!1,q,!1,!1,1,q,19,""),q,q,q,1,q)
+v=A.k_(q,q,!0,q,q,1,q,q,0,!1,q,!1,q,q,q,q,!0,q,q,q,q,q,A.ce(A.n("recurringBookings",!0),q,!1,!1,q,!1,!1,1,q,19,""),q,q,q,1,q)
 s=A.t(d)
-if(u==null)r=A.cy(A.cd(A.n("bookingDeleted",!0),q,!1,!1,q,!1,!1,1,q,19,""),q,q)
+if(u==null)r=A.cy(A.ce(A.n("bookingDeleted",!0),q,!1,!1,q,!1,!1,1,q,19,""),q,q)
 else{r=u.a.go
 r=A.d0(A.a8(A.a([new B.ahy(t,r.a,r.gfR(),new B.b60(this,u),q),new A.b4(t,new B.b61(this,u,t),q,q,y.k),A.z(q,$.ct()*0.1,q)],y.p),C.h,C.j,C.f),q,C.n,q,q,q,C.C)}return A.a2(q,A.oE(!1,A.jp(v,s.ax.CW,r,q,!1,q,q,q),!0,!1,C.Z,!0,!0),C.i,x.ax.CW,q,q,q,q,q,q,q,q,q,q)},
-ana(d,e){return d.b.F(0,A.N("dd-MM-yyyy",null).M(e))||d.a.go.of(e)}}
+an9(d,e){return d.b.F(0,A.N("dd-MM-yyyy",null).M(e))||d.a.go.of(e)}}
 B.ahy.prototype={
 p(d){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null,j=new D.Pi()
 j.shT(l.c.a)
@@ -144,7 +144,7 @@ if(A.N(f,g).M(u.Q)===A.N(f,g).M(new A.B(Date.now(),!1)))k=A.n("today",!0)
 s=A.aM(G.kJ,g,g,g,22)
 r=A.z(g,g,10)
 x=A.N(f,g).M(x)
-o=$.dw()
+o=$.dv()
 x=A.a8(A.a([A.J(x,g,g,g,g,g,g,g,A.a4(g,g,o.c.ax.f,g,g,g,g,g,g,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,C.k,g),A.J(k,g,g,g,g,g,g,g,A.a4(g,g,o.c.ax.f,g,g,g,g,g,g,g,g,14,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g,g)],t),C.h,C.j,C.f)
 q=A.z(g,g,20)
 j=A.aM(H.hO,g,g,g,22)
@@ -153,16 +153,16 @@ u=u.Q
 u=A.aP(A.a([s,r,x,q,A.aP(A.a([j,i,A.J(A.N("HH:mm",g).M(u),g,g,g,g,g,g,g,A.a4(g,g,o.c.ax.f,g,g,g,g,g,g,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,C.k,g)],t),C.h,C.j,C.f)],t),C.h,C.G,C.f)
 i=A.z(g,20,g)
 j=e.a
-return new A.ah(C.ba,A.a8(A.a([u,i,A.aP(A.a([A.aP(A.a([h.bk7(d,j,n,p),A.z(g,g,20),A.cd(j.CW,g,!1,!1,g,!1,!1,1,g,22,"")],t),C.h,C.j,C.f),h.avM(j)],t),C.h,C.aG,C.f),A.z(g,10,g),A.a8(l,C.h,C.j,C.f),new E.Np(e.a,m,d,!1,w.a.Q,g)],t),C.h,C.j,C.f),g)},
+return new A.ah(C.ba,A.a8(A.a([u,i,A.aP(A.a([A.aP(A.a([h.bk7(d,j,n,p),A.z(g,g,20),A.ce(j.CW,g,!1,!1,g,!1,!1,1,g,22,"")],t),C.h,C.j,C.f),h.avL(j)],t),C.h,C.aG,C.f),A.z(g,10,g),A.a8(l,C.h,C.j,C.f),new E.Np(e.a,m,d,!1,w.a.Q,g)],t),C.h,C.j,C.f),g)},
 bk7(d,e,f,g){var x=null,w=e.dx
 return A.ue(A.bD(x,A.iC(f,50,g),C.n,!1,x,x,x,x,x,x,x,new B.b67(this,d,e,f),x,x,x,x,x,x,x,x,x,x,x,x,x,new B.b68(this,d,e,f),x,x,x,x,x,x,x,!1,C.E),"worker_icon"+w+"_ReccurenceItem")},
-avM(d){var x,w=null,v=this.d
+avL(d){var x,w=null,v=this.d
 v.toString
 if(v.aF(new A.B(Date.now(),!1)))return A.z(w,w,w)
 if(!d.at)return A.z(w,w,w)
 v=A.eZ("assets/attention_image.webp",w,w,38,w,w,38)
 x=$.bv()
-return new A.ah(C.mU,A.a8(A.a([v,new A.ah(C.ba,A.z(A.cd(A.n("waitingForApproval",!0),C.v,!1,!1,w,!1,!1,1,w,13,""),w,x*0.2),w)],y.p),C.h,C.j,C.f),w)}}
+return new A.ah(C.mU,A.a8(A.a([v,new A.ah(C.ba,A.z(A.ce(A.n("waitingForApproval",!0),C.v,!1,!1,w,!1,!1,1,w,13,""),w,x*0.2),w)],y.p),C.h,C.j,C.f),w)}}
 var z=a.updateTypes(["J7(D,B?,d?)","~(tH)"])
 B.b5Z.prototype={
 $2(d,e){if(e.go!=null)this.a.j(0,d,new E.uL(e,A.r(y.N,y.s)))},
@@ -176,7 +176,7 @@ x=e.Q
 w.j(0,A.N("dd-MM-yyyy",null).M(x),e)}},
 $S:29}
 B.b60.prototype={
-$1$date(d){return this.a.ana(this.b,d)},
+$1$date(d){return this.a.an9(this.b,d)},
 $C:"$1$date",
 $R:0,
 $D(){return{date:C.vM}},
@@ -186,7 +186,7 @@ $3(d,e,f){var x=this.b
 return new B.J7(x,this.c.a,new B.b5Y(this.a,x),null)},
 $S:z+0}
 B.b5Y.prototype={
-$1$date(d){return this.a.ana(this.b,d)},
+$1$date(d){return this.a.an9(this.b,d)},
 $S:332}
 B.b63.prototype={
 $1(d){var x=this.a.c
@@ -218,4 +218,4 @@ x(A.cX,[B.b68,B.b67])})()
 A.cG(b.typeUniverse,JSON.parse('{"Dx":{"R":[],"d":[]},"ahy":{"R":[],"d":[]},"J7":{"R":[],"d":[]}}'))
 var y=(function rtii(){var x=A.A
 return{s:x("ep"),R:x("o1"),p:x("C<d>"),P:x("aG"),S:x("uL"),C:x("mx"),N:x("f"),w:x("rT"),l:x("nN"),k:x("b4<B?>"),X:x("B?")}})()}
-$__dart_deferred_initializers__["USaj4p8geYL2QgV9d3RhFhgzWIE="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["6In+WIalklbkTOvF3Mn4Wp9zs4A="] = $__dart_deferred_initializers__.current
