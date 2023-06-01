@@ -1520,7 +1520,8 @@
   "bookingsAsClientExplainRecurrence":"Here you will be able to see all the recurrence orders that booked for you as a customer",
   "active":"Active",
   "passed":"Expired",
-  
+  "newSub":"New customer bought a subscription",
+  "newSubContent":"New business (BUSINESSNAME) buy subscription SUBNAME USERNAME(USERPHONE)",
   "sendNotificationToClient":"Notify client",
   "clientNotificationExplain":"This notification will be sent to the client if he has approved notifications from the application",
   "OrderedNotFromApp":"The customer does not have the app on the device, or has not enabled notifications from the app",
@@ -1533,6 +1534,22 @@
   "PushOrWhatsApp": "WhatApp",
   "PushOrSMS": "SMS",
   "Push":"Push",
-  "timeBeforeNotifyExplain":"Valid for orders you ordered as a customer"
+  "timeBeforeNotifyExplain":"Valid for orders you ordered as a customer",
+  "passedBooking":"Passed order",
+  "onHoldBooking":"Order pending",
+  "changeInBookingExplain":"Add, delete or update a booking",
+   "changeInWatingListExplain":"Adding or removing customers from the waiting list",
+   "whenRecievedOnlinePayment":"when an online payment is received",
+   "nearDeadlineExplain":"Receiving a notification that a customer orders near the deadline",
+   "cancelNearDeadlineExplain":"Receiving a notification that a customer cancels near the deadline",
+   "messagesForAllSubs": "A message in the application for everyone who is registered",
+   "whenCustomerEnterFirstTime": "When a customer enters the business for the first time",
+   "defaultMessage":"Default message to customers",
+   "MessagesBalance": "Messages balance",
+   "MessagesBalanceExplain": "As soon as it's over we'll only use Push notification",
+   "howDoYouWantClientReciveMessages":"How would you like to inform customers that they don't have the app?",
+   "ifThereIsNoApp":"If the customer does not have the app, how would you like to notify him?",
+   "youExceedTheMessagesLimit":"Exception in the amount of messages, alerts the customer with Push notification",
+   "soon":"soon"
 }
 

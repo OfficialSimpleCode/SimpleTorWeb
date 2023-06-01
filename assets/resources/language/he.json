@@ -1378,6 +1378,8 @@
   "notesOfWorker":"ההערות העובד",
   "newInPayment":"לקוח חדש מעוניין בתשלומים",
   "newInPaymentContent":"עסק חדש (BUSINESSNAME) רוצה להצטרף לתשלומים USERNAME(USERPHONE)",
+  "newSub":"לקוח חדש קנה מנוי",
+  "newSubContent":"עסק חדש (BUSINESSNAME) קנה מנוי SUBNAME USERNAME(USERPHONE)",
   "sureToDeleteChanges":"האם לבטל את השינויים ?",
   "somethingWrong":"משהו לא תקין",
   "totalMoney":"סך הכל",
@@ -1533,5 +1535,23 @@
   "PushOrWhatsApp": "WhatApp",
   "PushOrSMS": "SMS",
   "Push":"Push",
-  "timeBeforeNotifyExplain":"תקף להזמנות שהזמנת בתור לקוח"
+  "timeBeforeNotifyExplain":"תקף להזמנות שהזמנת בתור לקוח",
+  "passedBooking":"הזמנה מהעבר",
+  "onHoldBooking":"הזמנה בהמתנה",
+  "changeInBookingExplain":"הוספה, מחיקה או עדכון של הזמנה",
+  "changeInWatingListExplain":"הוספה או הורדה של לקוחות מרשימת ההמתנה",
+  "whenRecievedOnlinePayment":"כשמתקבל תשלום מקוון",
+  "nearDeadlineExplain":"קבלת התראה שלקוח מזמין בסמוך למועד",
+  "cancelNearDeadlineExplain":"קבלת התראה שלקוח מבטל בסמוך למועד",
+  "messagesForAllSubs":"הודעה באפליקציה לכל מי שרשום",
+  "whenCustomerEnterFirstTime": "כאשר לקוח נכנס בפעם הראשונה לעסק",
+  "defaultMessage":"הודעה ברירת מחדל ללקוחות",
+  "howDoYouWantClientReciveMessages":"איך תרצה שהלקוחות שלך יקבלו את ההודעות ?",
+  "MessagesBalance":"יתרת הודעות",
+  "MessagesBalanceExplain":"ברגע שיגמר נשתמש רק בPush",
+  "ifThereIsNoApp":"איך תרצה להודיע ללקוחות שאין להם את האפליקציה ?",
+  "youExceedTheMessagesLimit":"חריגה בכמות ההודעות, מתריע ללקוח בעזרת הודעת Push",
+  "soon":"בקרוב",
+  "alertBookingTemplate":"היי NAME, ההזמנה שלך מסוג TREATMENTNAME בBUSINESSNAME לWORKERNAME בתאריך DATE מתקרבת לצפייה בפרטים - https://officialsimplecode.github.io/DownloadSimpleTor/"
+
 }
