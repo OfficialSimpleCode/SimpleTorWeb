@@ -1,16 +1,12 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A={ih:function ih(d,e){this.a=d
-this.b=e}},C,B
-A=a.updateHolder(c[137],A)
-C=c[0]
-B=c[168]
-A.ih.prototype={
-P(){return"ManagerCopyOptions."+this.b}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.ih,C.fB)})();(function constants(){B.lH=new A.ih(0,"workTime")
-B.u0=new A.ih(1,"treatments")
-B.lI=new A.ih(2,"notifications")
-B.lJ=new A.ih(4,"workSettings")
-B.lK=new A.ih(5,"scheduleSettings")
-B.lL=new A.ih(6,"clients")})()}
-$__dart_deferred_initializers__["ZR1Dkv2lX7/QrjrHK0EPAMDJTjU="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B={
+cgh(d){var y
+if(d==="")return null
+y=A.ct('^(([^<>()[\\]\\\\.,;:\\s@\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\"]+)*)|(\\".+\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))$',!0,!1,!1)
+if(!y.b.test(d))return A.k("invalidEmail",!0)
+return null}},A
+B=a.updateHolder(c[156],B)
+A=c[0]
+var z=a.updateTypes(["l?(l?)"]);(function installTearOffs(){var y=a._static_1
+y(B,"ch1","cgh",0)})()}
+$__dart_deferred_initializers__["gS9i7BRgdsKYplk1kFtgWsBczx8="] = $__dart_deferred_initializers__.current

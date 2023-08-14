@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,A
-B=c[163]
+B=c[172]
 A=c[0]
-var z=a.updateTypes([]);(function constants(){B.nx=new A.E(10,10,10,10)})()}
-$__dart_deferred_initializers__["+7S6c7ALA+ZJ0JVqPn/XLVg2GTk="] = $__dart_deferred_initializers__.current
+var z=a.updateTypes([]);(function constants(){B.dU=new A.bA(58710,"MaterialIcons",null,!1)})()}
+$__dart_deferred_initializers__["JloITyMzFnTUqkXIRk26rraU1D4="] = $__dart_deferred_initializers__.current
