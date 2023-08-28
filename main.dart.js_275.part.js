@@ -1,33 +1,24 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B={
-Q8(d,e,f){var x=0,w=A.j(y.b),v,u
-var $async$Q8=A.e(function(g,h){if(g===1)return A.f(h,w)
-while(true)switch(x){case 0:x=6
-return A.c(A.dp(d,A.aJ("invoicePage",0)),$async$Q8)
-case 6:x=h===!0?3:5
-break
-case 3:u=A.he(new B.c7F(f,!0),null,y.a)
-x=7
-return A.c(A.af(d,!1).eS(u),$async$Q8)
-case 7:v=h
-x=1
-break
-x=4
-break
-case 5:new A.aN(A.k("thereIsProblem",!0),C.q,C.t,d,null).ai()
-case 4:case 1:return A.h(v,w)}})
-return A.i($async$Q8,w)},
-c7F:function c7F(d,e){this.a=d
-this.b=e}},A,D,C
-B=a.updateHolder(c[104],B)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C={Ss:function Ss(d,e){this.c=d
+this.a=e}},A,B,E,D
+C=a.updateHolder(c[93],C)
 A=c[0]
-D=c[40]
-C=c[2]
-var z=a.updateTypes(["KA(z)"])
-B.c7F.prototype={
-$1(d){A.aC("invoicePage")
-return D.cID(this.b,this.a)},
-$S:z+0};(function inheritance(){var x=a.inherit
-x(B.c7F,A.bD)})()
-var y={b:A.y("@"),a:A.y("Y?")}}
-$__dart_deferred_initializers__["HOkwstvTK9DcLqaU9yAV3SOmM2o="] = $__dart_deferred_initializers__.current
+B=c[2]
+E=c[165]
+D=c[166]
+C.Ss.prototype={
+p(d){var x,w,v,u,t,s=null,r=this.c,q=A.w("HH:mm",s).v(r),p=A.w("dd-MM-yyyy",s).v(r),o=A.k(B.lo[r.gd8()],!0),n=$.e6()
+r=n.c.ax
+x=r.y
+if(x==null)x=r.f
+w=A.cK(E.fw,s,s,!1,!1,!0,!1,28)
+v=$.bi()
+u=!v.Q
+r=r.f
+t=y.a
+return A.fX(A.ba(s,s,s,A.ak(A.a([w,new A.q(10,s,s,s),A.T(A.a([A.P(p,s,u,!1,r,!0,s,!1,!1,!1,1,s,21,s,""),A.P(o,s,u,!1,r,!1,s,!1,!1,!1,1,s,17,s,"")],t),B.h,B.i,B.f),new A.q(30,s,s,s),A.ak(A.a([A.cK(D.fv,s,s,!1,!1,!0,!1,28),new A.q(10,s,s,s),A.P(q,s,!v.Q,!1,n.c.ax.f,!0,s,!1,!1,!1,1,s,20,s,"")],t),B.h,B.i,B.f)],t),B.h,B.i,B.f),x,s,!1,s,s,B.ac,s,s,!1,s,s,new A.D(15,15,15,15),10,s,!1,s),B.b5)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.Ss,A.I)})()
+A.bJ(b.typeUniverse,JSON.parse('{"Ss":{"I":[],"d":[]}}'))
+var y={a:A.y("C<d>")}}
+$__dart_deferred_initializers__["+22h2xOh5no693kIkITMhi8koK0="] = $__dart_deferred_initializers__.current
