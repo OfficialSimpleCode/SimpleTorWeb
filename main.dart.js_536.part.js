@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_536",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,D,B={
-drW(){return new B.H7(null)},
+drU(){return new B.H7(null)},
 H7:function H7(d){this.a=d},
 bcm:function bcm(d,e){this.a=d
 this.b=e},
@@ -29,7 +29,7 @@ B.bcm.prototype={
 $1(d){return this.aKm(d)},
 aKm(d){var x=0,w=A.j(y.f),v=this,u,t
 var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:u=$.by()
+while(true)switch(x){case 0:u=$.bz()
 t=v.a.a
 t.toString
 u.afB(t,v.b,C.hF,2)
@@ -44,7 +44,7 @@ w=$.V().gbs()
 v=A.d("clientsReminders",!0)
 v=F.qm(s,w>1,s,s,d,s,s,s,A.d("clientRemindersExplanation",!0),!1,s,32,v)
 w=A.ht(!1,s,!0,!1,!1,!0,!1,14,A.d("bookingsWillUpdatedFromNowOn",!0))
-u=$.by().ay
+u=$.bz().ay
 t=u.h(0,"reminder")
 t.toString
 t=D.awT("alertToCustomersAboutComing","alertBookingTemplate",new B.bcj(x),new B.bck(d),C.cr,!0,t,C.bp,"reminderShowcase")
@@ -64,7 +64,7 @@ $S:1}
 B.bck.prototype={
 $0(){var x=0,w=A.j(y.p),v=this,u,t
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:t=$.by()
+while(true)switch(x){case 0:t=$.bz()
 if(C.hF===t.b){t.c.i(0,C.hF,1)
 t.a=!0
 u=v.a
@@ -76,14 +76,14 @@ $S:1}
 B.bcl.prototype={
 $0(){var x=0,w=A.j(y.p),v=this
 var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:$.by().kW(v.a)
+while(true)switch(x){case 0:$.bz().kW(v.a)
 return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.H7,A.A)
 w(A.b4,[B.bcm,B.bcn])
-w(A.b8,[B.bcj,B.bck,B.bcl])})()
+w(A.b9,[B.bcj,B.bck,B.bcl])})()
 A.aW(b.typeUniverse,JSON.parse('{"H7":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("ax"),j:A.v("jE"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_536",e:"endPart",h:b})})($__dart_deferred_initializers__,"mXM0jamvvX9pmEDXfYuTgDXhxM8=");
+a.eventLog.push({p:"main.dart.js_536",e:"endPart",h:b})})($__dart_deferred_initializers__,"7+3InVf3MxwSw2t1jfEQyRk4Gbg=");

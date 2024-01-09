@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_482",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,B={alu:function alu(d){this.a=d},b9U:function b9U(){},b9V:function b9V(){},b9W:function b9W(d){this.a=d},b9X:function b9X(){},
-dCg(){return new B.aEh(null)},
+dCe(){return new B.aEh(null)},
 aEh:function aEh(d){this.a=d}},D
 A=c[0]
 C=c[2]
@@ -29,17 +29,17 @@ $0(){var w="https://officialsimplecode.github.io/SimpleTorHomePage/"
 return new A.j8().Ia(w,w)},
 $S:3}
 B.b9W.prototype={
-$0(){return A.dgE(this.a,"simpletor.official")},
+$0(){return A.dgC(this.a,"simpletor.official")},
 $S:0}
 B.b9X.prototype={
 $0(){return new A.j8().xo("0504040624")},
 $S:0};(function inheritance(){var w=a.inheritMany
 w(A.A,[B.alu,B.aEh])
-w(A.b8,[B.b9U,B.b9V,B.b9W,B.b9X])})()
+w(A.b9,[B.b9U,B.b9V,B.b9W,B.b9X])})()
 A.aW(b.typeUniverse,JSON.parse('{"alu":{"A":[],"l":[]},"aEh":{"A":[],"l":[]}}'))
 var y={c:"https://officialsimplecode.github.io/SimpleCodeWeb/"}
 var x={e:A.v("G<l>"),h:A.v("ax")};(function constants(){D.aMD=new A.y(0,0,0,40)
 D.aNf=new A.y(15,7,15,7)
 D.aP5=new A.t9(61612,"FontAwesomeSolid","font_awesome_flutter",!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_482",e:"endPart",h:b})})($__dart_deferred_initializers__,"yfG5GoNqyRlyjq3dDj9QMuVWJ6I=");
+a.eventLog.push({p:"main.dart.js_482",e:"endPart",h:b})})($__dart_deferred_initializers__,"dJIpw1uaxOHmo7PkPiiBCNhL1CU=");
