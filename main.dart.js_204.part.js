@@ -1,37 +1,10 @@
-self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B={B5:function B5(d,e,f){this.c=d
-this.d=e
-this.a=f},bqj:function bqj(d){this.a=d},bql:function bql(d){this.a=d},bqk:function bqk(d){this.a=d}},A,C,D,E
-B=a.updateHolder(c[108],B)
-A=c[0]
-C=c[2]
-D=c[266]
-E=c[195]
-B.B5.prototype={
-p(d){var x=A.aF(!1,y.l)
-return new A.fa(new B.bqj(x),new A.bM(C.mR,null,C.J,C.z,A.a([this.c,this.aA8(x)],y.e),null),null,y.b)},
-aA8(d){return new A.ab(d,new B.bql(this),null,null,y.m)}}
-var z=a.updateTypes([])
-B.bqj.prototype={
-$1(d){var x=d.a.c
-x.toString
-if(x>$.bI()*0.6){x=this.a
-if(!x.a){x.sk(0,!0)
-x.U()}}else{x=this.a
-if(x.a){x.sk(0,!1)
-x.U()}}return!1},
-$S:229}
-B.bql.prototype={
-$3(d,e,f){var x=null
-if(!e)return new A.q(x,x,x,x)
-return new A.a6(D.adt,A.fX(A.dK(!1,x,x,E.l7,!0,x,x,!0,new B.bqk(this.a),x,x,x,x),C.b5),x)},
-$S:1029}
-B.bqk.prototype={
-$0(){this.a.d.iv(0,C.O,A.a_(0,0,0,400,0,0))},
-$S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.B5,A.I)
-w(A.bF,[B.bqj,B.bql])
-x(B.bqk,A.bU)})()
-A.bJ(b.typeUniverse,JSON.parse('{"B5":{"I":[],"d":[]}}'))
-var y={e:A.y("C<d>"),b:A.y("fa<ll>"),m:A.y("ab<H>"),l:A.y("H")};(function constants(){D.adt=new A.D(10,30,10,30)})()}
-$__dart_deferred_initializers__["xgRwBcm+feo9hI39zO099sc4p2I="] = $__dart_deferred_initializers__.current
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_204",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A,C
+B=c[0]
+A=c[2]
+C=c[387]
+var z=a.updateTypes([]);(function constants(){C.yo=new B.bf([A.pM,"assets/icons/barber.webp",A.pN,"assets/icons/nail-polish.webp",A.ea,"assets/icons/more-information.webp",A.pY,"assets/icons/hairdresser.webp",A.q8,"assets/icons/finger-with-nail.webp",A.q3,"assets/icons/mother.webp",A.qj,"assets/icons/eye.webp",A.qt,"assets/icons/liner.webp",A.qu,"assets/icons/wig.webp",A.qv,"assets/icons/make-up.webp",A.qw,"assets/icons/tattoo.webp",A.qx,"assets/icons/hair-removal.webp",A.pO,"assets/icons/masseur.webp",A.pQ,"assets/icons/cobbler.webp",A.pR,"assets/icons/clown.webp",A.pS,"assets/icons/social-care.webp",A.pT,"assets/icons/hat.webp",A.pP,"assets/icons/physical-therapy.webp",A.pU,"assets/icons/stethoscope.webp",A.pV,"assets/icons/veterinarian.webp",A.pW,"assets/icons/communication.webp",A.pX,"assets/icons/groomer.webp",A.pZ,"assets/icons/dj.webp",A.q_,"assets/icons/psychologist.webp",A.q0,"assets/icons/teacher.webp",A.q1,"assets/icons/wedding-dress.webp",A.q2,"assets/icons/dancing.webp",A.q4,"assets/icons/knee.webp",A.q5,"assets/icons/diet.webp",A.q6,"assets/icons/car-wash.webp",A.q7,"assets/icons/photographer.webp",A.q9,"assets/icons/swimming.webp",A.qa,"assets/icons/discussion.webp",A.qb,"assets/icons/leadership.webp",A.qc,"assets/icons/coach.webp",A.qd,"assets/icons/chef.webp",A.qe,"assets/icons/fitness.webp",A.qf,"assets/icons/lawyer.webp",A.qg,"assets/icons/sales.webp",A.qh,"assets/icons/real-estate.webp",A.qi,"assets/icons/steering-wheel.webp",A.qk,"assets/icons/financial-profit.webp",A.ql,"assets/icons/book.webp",A.qm,"assets/icons/suit.webp",A.qn,"assets/icons/restaurant.webp",A.qo,"assets/icons/nail-dryer.webp",A.qp,"assets/icons/tooth.webp",A.qq,"assets/icons/bueaty-salon.webp",A.qr,"assets/icons/washer.webp",A.qs,"assets/icons/sofa.webp"],B.v("bf<cP,n>"))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_204",e:"endPart",h:b})})($__dart_deferred_initializers__,"xNoQ2vSjX8whZ5jcONCyG8N/d5o=");

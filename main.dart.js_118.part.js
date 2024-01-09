@@ -1,14 +1,9 @@
-self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C={
-ahC(){var x=0,w=A.j(y.b)
-var $async$ahC=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(B.dh.hf("HapticFeedback.vibrate","HapticFeedbackType.lightImpact",y.b),$async$ahC)
-case 2:return A.h(null,w)}})
-return A.i($async$ahC,w)}},A,B
-C=a.updateHolder(c[126],C)
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_118",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
 A=c[0]
-B=c[2]
-var z=a.updateTypes([])
-var y={b:A.y("~")}}
-$__dart_deferred_initializers__["zX1R+/G4tuMsNuJCHst1YknQ3R0="] = $__dart_deferred_initializers__.current
+B=c[480]
+var z=a.updateTypes([]);(function constants(){B.b90=new A.m(8,null,null,null)})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_118",e:"endPart",h:b})})($__dart_deferred_initializers__,"WNLpWPtF1bhjYgB7hPbpH0NC7Ec=");
