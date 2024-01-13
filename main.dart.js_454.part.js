@@ -1,16 +1,56 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_454",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,A={a29:function a29(d,e){this.a=d
-this.b=e}},B
-C=c[0]
-A=a.updateHolder(c[223],A)
-B=c[438]
-A.a29.prototype={
-R(){return"ListTileControlAffinity."+this.b}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(A.a29,C.f2)})();(function constants(){B.Nf=new A.a29(0,"leading")
-B.Db=new A.a29(1,"trailing")
-B.bKA=new A.a29(2,"platform")})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,E,C={
+Wq(d,e,f,g,h,i){var x=0,w=A.j(y.b),v,u,t,s,r
+var $async$Wq=A.e(function(j,k){if(j===1)return A.f(k,w)
+while(true)switch(x){case 0:x=3
+return A.c(A.bL(e,A.ai("makeNewPaymentRequest",0)),$async$Wq)
+case 3:u=k
+t=$.L()
+s=t.x.fy.a.h(0,$.V().d.c)
+r=s==null?null:J.aa(s,B.zS)
+if(!(r==null?!0:r)){new A.ag(A.d("managerBlockThat",!1),B.k,B.l,B.n,e).M()
+v=null
+x=1
+break}x=t.ax.a.b<=0?4:5
+break
+case 4:x=6
+return A.c(D.nG(e,A.d("buyNewSubToGetMorePaymentRequest",!0),!1,!1,!0),$async$Wq)
+case 6:x=1
+break
+case 5:x=u===!0?7:9
+break
+case 7:s=A.fg(new C.cPa(g,h,i,f,d),null,y.a)
+x=10
+return A.c(A.Q(e,!1).e7(s),$async$Wq)
+case 10:v=k
+x=1
+break
+x=8
+break
+case 9:new A.ag(A.d("thereIsProblem",!0),B.k,B.l,B.n,e).M()
+case 8:case 1:return A.h(v,w)}})
+return A.i($async$Wq,w)},
+cPa:function cPa(d,e,f,g,h){var _=this
+_.a=d
+_.b=e
+_.c=f
+_.d=g
+_.e=h}}
+J=c[1]
+A=c[0]
+B=c[2]
+D=c[262]
+E=c[47]
+C=a.updateHolder(c[164],C)
+var z=a.updateTypes(["J0(B)"])
+C.cPa.prototype={
+$1(d){var x=this
+A.ae("makeNewPaymentRequest")
+return E.dwl(x.e,x.d,x.a,x.b,x.c)},
+$S:z+0};(function inheritance(){var x=a.inherit
+x(C.cPa,A.b8)})()
+var y={b:A.v("@"),a:A.v("ah?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_454",e:"endPart",h:b})})($__dart_deferred_initializers__,"EjYRX9uh4Ab3k2ik2P3v3RvieSI=");
+a.eventLog.push({p:"main.dart.js_454",e:"endPart",h:b})})($__dart_deferred_initializers__,"zfJD1Mnnh4QVR03b5Cz3eKc41OI=");
