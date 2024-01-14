@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_539",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,E,B={
-dxS(){return new B.ay9(null)},
+dxT(){return new B.ay9(null)},
 ay9:function ay9(d){this.a=d},
 bIv:function bIv(d){this.a=d},
 bIw:function bIw(d){this.a=d},
@@ -12,7 +12,7 @@ while(true)switch(x){case 0:x=6
 return A.c(A.bL(d,A.ai("recurreenceBookingsPage",0)),$async$b_a)
 case 6:x=f===!0?3:5
 break
-case 3:u=A.fg(new B.cPu(),null,y.a)
+case 3:u=A.fg(new B.cPv(),null,y.a)
 x=7
 return A.c(A.Q(d,!1).e7(u),$async$b_a)
 case 7:v=f
@@ -23,7 +23,7 @@ break
 case 5:new A.ag(A.d("thereIsProblem",!0),C.k,C.l,C.n,d).M()
 case 4:case 1:return A.h(v,w)}})
 return A.i($async$b_a,w)},
-cPu:function cPu(){}}
+cPv:function cPv(){}}
 A=c[0]
 C=c[2]
 D=c[328]
@@ -55,14 +55,14 @@ return A.c(B.b_a(v.a),$async$$0)
 case 2:return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1}
-B.cPu.prototype={
+B.cPv.prototype={
 $1(d){A.ae("recurreenceBookingsPage")
-return E.dza()},
+return E.dzb()},
 $S:z+0};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.ay9,A.A)
 w(A.bb,[B.bIv,B.bIw])
-x(B.cPu,A.b8)})()
+x(B.cPv,A.b8)})()
 A.aV(b.typeUniverse,JSON.parse('{"ay9":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("aw"),b:A.v("@"),a:A.v("ah?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_539",e:"endPart",h:b})})($__dart_deferred_initializers__,"GDvPOD7TEWqdjaMtEXxvb6hErGo=");
+a.eventLog.push({p:"main.dart.js_539",e:"endPart",h:b})})($__dart_deferred_initializers__,"wV5yOD2C185TPhRlabjcywmGOAE=");

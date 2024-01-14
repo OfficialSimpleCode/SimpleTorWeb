@@ -15,20 +15,20 @@ u=A.E(A.d("changeTreatmentMoney",!0),null,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,
 q=$.aj()
 p=A.E(A.d("theUpdatedPriceIsSpecificToThisBooking",!0),C.m,!1,!1,null,!1,!1,null,!1,!1,!1,0.7,null,!1,13,null,"")
 o=m.b
-o=E.zB(null,!1,C.f.l(m.a),o,!0,null,null,t,1,!0,!0)
-m=A.dz(s,null,null,null,null,null,null,B.dPG(),null,A.d("noteOfChanging",!0),null,60,null,null,null,null,null,!1,null,null,!1,null,!1,!0,!0,!0,null,null,C.ar)
+o=E.zA(null,!1,C.f.l(m.a),o,!0,null,null,t,1,!0,!0)
+m=A.dz(s,null,null,null,null,null,null,B.dPH(),null,A.d("noteOfChanging",!0),null,60,null,null,null,null,null,!1,null,null,!1,null,!1,!0,!0,!0,null,null,C.ar)
 n=$.L().x.gta()?new A.bY(C.a1,null,null,new A.m($.aj()*0.6,null,A.E(A.d("theUpdatedPriceWillBeOnInvoice",!0),null,!1,!1,null,!1,!1,null,!1,!1,!1,0.7,null,!1,14,null,""),null),null):new A.m(null,null,null,null)
-n=A.hf(A.N(A.a([u,new A.m(null,3,null,null),new A.m(q*0.5,null,p,null),new A.m(null,15,null,null),o,new A.m(null,5,null,null),m,new A.m(null,3,null,null),n],y.u),C.e,C.h,C.d),r)
+n=A.hg(A.N(A.a([u,new A.m(null,3,null,null),new A.m(q*0.5,null,p,null),new A.m(null,15,null,null),o,new A.m(null,5,null,null),m,new A.m(null,3,null,null),n],y.u),C.e,C.h,C.d),r)
 m=A.d("update",!0)
 x=3
-return A.c(A.cX(C.ak,!1,1,!0,null,A.d("cancel",!0),null,n,d,C.N,20,!0,C.z,new B.cHk(d),new B.cHl(r,t,e,d,s),!1,m,null),$async$aYC)
+return A.c(A.cX(C.ak,!1,1,!0,null,A.d("cancel",!0),null,n,d,C.N,20,!0,C.z,new B.cHl(d),new B.cHm(r,t,e,d,s),!1,m,null),$async$aYC)
 case 3:v=g
 x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$aYC,w)},
-cHk:function cHk(d){this.a=d},
-cHl:function cHl(d,e,f,g,h){var _=this
+cHl:function cHl(d){this.a=d},
+cHm:function cHm(d,e,f,g,h){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -46,7 +46,7 @@ this.b=e},
 bJB:function bJB(d){this.a=d},
 a90:function a90(d,e){this.c=d
 this.a=e},
-dP3(d){if(C.i.hM(d).length===0)return A.d("mustIncluteChars",!0)
+dP4(d){if(C.i.hM(d).length===0)return A.d("mustIncluteChars",!0)
 if(d.length>60)return A.d("toLong",!0)
 else return null}}
 A=c[0]
@@ -62,15 +62,15 @@ if(this.c==null&&this.d==null)return new A.m(w,w,w,w)
 v=A.q(d).ax
 x=v.y
 v=x==null?v.f:x
-return A.c4(!1,v,w,D.rR,!0,!0,w,w,w,!0,new B.bJC(this,d),!1,w,w,w,w,w,A.d("paymentRequest",!0),w)}}
+return A.c4(!1,v,w,D.rS,!0,!0,w,w,w,!0,new B.bJC(this,d),!1,w,w,w,w,w,A.d("paymentRequest",!0),w)}}
 B.a90.prototype={
 n(d){var x=null
 return $.V().gbs()>1&&$.L().as.a>1?new A.a9(C.hT,A.E(A.d("to",!0)+": "+this.c.b,x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,14,x,""),x):new A.m(x,x,x,x)}}
 var z=a.updateTypes(["n?(n?)"])
-B.cHk.prototype={
+B.cHl.prototype={
 $0(){A.Q(this.a,!1).W(null)},
 $S:2}
-B.cHl.prototype={
+B.cHm.prototype={
 $0(){var x,w,v,u,t=this,s=t.a
 if(s.gY()==null||!s.gY().hj())return
 s=t.b
@@ -110,7 +110,7 @@ r=h.ax
 q=h.p4
 p=h.ch
 o=A.bKx(q,h.CW,p,t,h.at,r)
-r=new A.hl().hv()
+r=new A.hm().hv()
 t=h.x2
 p=h.gfO()
 q=A.d("paymentRequestOnBookingExplain",!0)
@@ -132,7 +132,7 @@ if(i!=null){j=i.a
 i=j.Q
 j=i==null?j.ay:i}else{j=j.a
 i=j.Q
-j=i==null?j.ok:i}l.HX(j,k.r)
+j=i==null?j.ok:i}l.HY(j,k.r)
 return A.h(null,w)}})
 return A.i($async$$0,w)},
 $S:1}
@@ -143,10 +143,10 @@ w.D()}x=x.c
 if(x!=null){x.a.go=null
 x.D()}},
 $S:2};(function installTearOffs(){var x=a._static_1
-x(B,"dPG","dP3",0)})();(function inheritance(){var x=a.inheritMany
-x(A.bb,[B.cHk,B.cHl,B.bJC,B.bJB])
+x(B,"dPH","dP4",0)})();(function inheritance(){var x=a.inheritMany
+x(A.bb,[B.cHl,B.cHm,B.bJC,B.bJB])
 x(A.A,[B.a3Q,B.a90])})()
 A.aV(b.typeUniverse,JSON.parse('{"a3Q":{"A":[],"l":[]},"a90":{"A":[],"l":[]}}'))
 var y={u:A.v("G<l>"),o:A.v("b1<hI>"),F:A.v("aw"),f:A.v("iw"),w:A.v("n"),D:A.v("P<ce>"),y:A.v("f0?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_484",e:"endPart",h:b})})($__dart_deferred_initializers__,"fH4Z8mGUvKKjCE/byxthfoXbx8c=");
+a.eventLog.push({p:"main.dart.js_484",e:"endPart",h:b})})($__dart_deferred_initializers__,"zpg+UR7Agw3ootugvd3fNR25XfY=");

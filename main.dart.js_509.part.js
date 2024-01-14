@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_509",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,E,F,D,B={
-dqS(){return new B.GW(null)},
+dqT(){return new B.GW(null)},
 GW:function GW(d){this.a=d},
 bbY:function bbY(d,e){this.a=d
 this.b=e},
@@ -43,7 +43,7 @@ x=this.b
 w=$.V().gbs()
 v=A.d("clientsReminders",!0)
 v=F.qg(s,w>1,s,s,d,s,s,s,A.d("clientRemindersExplanation",!0),!1,s,32,v)
-w=A.ha(!1,s,!0,!1,!1,!0,!1,14,A.d("bookingsWillUpdatedFromNowOn",!0))
+w=A.hb(!1,s,!0,!1,!1,!0,!1,14,A.d("bookingsWillUpdatedFromNowOn",!0))
 u=$.bx().ay
 t=u.h(0,"reminder")
 t.toString
@@ -86,4 +86,4 @@ w(A.bb,[B.bbV,B.bbW,B.bbX])})()
 A.aV(b.typeUniverse,JSON.parse('{"GW":{"A":[],"l":[]}}'))
 var y={e:A.v("G<l>"),p:A.v("aw"),j:A.v("jE"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_509",e:"endPart",h:b})})($__dart_deferred_initializers__,"u9tjWHlgNl6MHURChjKIY/ABeSo=");
+a.eventLog.push({p:"main.dart.js_509",e:"endPart",h:b})})($__dart_deferred_initializers__,"2nU8xgzaN+LYxTzK35Ol2VMiqNc=");
