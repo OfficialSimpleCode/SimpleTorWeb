@@ -13,7 +13,7 @@ break}x=6
 return A.c(A.bL(e,A.ai("createInvoicePage",0)),$async$Wp)
 case 6:x=k===!0?3:5
 break
-case 3:u=A.fg(new C.cP3(d,i,f,g,h),null,y.d)
+case 3:u=A.fg(new C.cP2(d,i,f,g,h),null,y.d)
 x=7
 return A.c(A.Q(e,!1).e7(u),$async$Wp)
 case 7:v=k
@@ -27,7 +27,7 @@ x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$Wp,w)},
-cP3:function cP3(d,e,f,g,h){var _=this
+cP2:function cP2(d,e,f,g,h){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -39,12 +39,12 @@ B=c[2]
 D=c[44]
 C=a.updateHolder(c[162],C)
 var z=a.updateTypes(["H0(B)"])
-C.cP3.prototype={
+C.cP2.prototype={
 $1(d){var x=this
-A.ad("createInvoicePage")
+A.ae("createInvoicePage")
 return D.dru(x.a,x.c,x.d,x.e,x.b)},
 $S:z+0};(function inheritance(){var x=a.inherit
-x(C.cP3,A.b8)})()
+x(C.cP2,A.b8)})()
 var y={d:A.v("dN"),e:A.v("dN?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_448",e:"endPart",h:b})})($__dart_deferred_initializers__,"c0/+FKDXyUdYibzmXmhTcummkiI=");
+a.eventLog.push({p:"main.dart.js_448",e:"endPart",h:b})})($__dart_deferred_initializers__,"7g8JtzdDOV5IREvRb5Dd/3Yr59E=");

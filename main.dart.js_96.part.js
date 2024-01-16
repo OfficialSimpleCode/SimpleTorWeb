@@ -9,6 +9,6 @@ D=c[400]
 var z=a.updateTypes([]);(function constants(){A.aQd=new B.b0(984254,"MaterialIcons",null,!1)
 A.aOP=new B.lS(61856,"FontAwesomeBrands","font_awesome_flutter",!1)
 A.aOU=new B.lS(61594,"FontAwesomeBrands","font_awesome_flutter",!1)
-A.Ej=new B.bf([C.jL,A.aQd,C.jM,A.aOP,C.hL,A.aOU,C.d7,D.CO],B.v("bf<mU,b0>"))})()};
+A.Ej=new B.bf([C.jM,A.aQd,C.jN,A.aOP,C.hL,A.aOU,C.d7,D.CO],B.v("bf<mU,b0>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_96",e:"endPart",h:b})})($__dart_deferred_initializers__,"zXQAq4aXAFS1/u0x3hIKqho96yQ=");
+a.eventLog.push({p:"main.dart.js_96",e:"endPart",h:b})})($__dart_deferred_initializers__,"8mtBMJvaBNOP1pp4zvk9by6rHp4=");

@@ -112,7 +112,7 @@ if(t==="assets/icons/more-information.webp"){w=A.q(d).ax
 v=w.z
 w=v==null?w.r:v
 w=new A.lk(new A.lq(w,B.cC),A.f5(t==null?"":t,u,u,30,u,u,30),u)}else w=A.f5(t==null?"":t,u,u,30,u,u,30)
-w=A.ae(A.a([s,new A.m(10,u,u,u),A.ip(x,w,B.aS)],y.u),B.e,B.h,B.d,u)
+w=A.ad(A.a([s,new A.m(10,u,u,u),A.ip(x,w,B.aS)],y.u),B.e,B.h,B.d,u)
 return A.be(L.aA8(new A.y(0,0,0,0),!0,this.r,!1,new C.b19(this,f),w,e,y.B),1)},
 bs2(d){var x,w,v,u,t=this
 if(t.gkR().w.a===0)return
@@ -163,7 +163,7 @@ u=v.Q=G.zB(x,!1,"",B.bw.h(0,v.c.a.y.f),!0,null,new C.b1h(v),null,1.3,!0,!0)}retu
 n(d){var x=this,w=null,v=A.d("CheckDetails",!0),u=A.q(d).ax,t=u.y
 u=t==null?u.f:t
 t=y.u
-return A.bz(w,A.al(w,A.hf(A.BC(0,w,w,B.y,w,B.t,w,B.aT,w,w,w,!1,w,B.H,!1,A.a([H.cYq(A.N(A.a([new D.or(v,w),A.ak(w,w,w,A.N(A.a([A.ae(A.a([A.be(x.w,1),new A.m(10,w,w,w),A.be(x.x,1)],t),B.e,B.h,B.d,w),new A.m(w,10,w,w),A.ae(A.a([A.be(x.y,1),new A.m(10,w,w,w),A.be(x.z,1)],t),B.e,B.h,B.d,w)],t),B.e,B.w,B.d),u,w,0,!1,w,w,w,w,w,!1,w,w,new A.y(10,20,10,20),8,w,!1,!1,w),new A.m(w,10,w,w),new D.or(A.d("RepaymentDate",!0),w),K.cVN(x.f,w,w,w),new A.m(w,10,w,w),new D.or(A.d("PickAmount",!0),w),x.gGo(),new E.lA(w),new A.a9(new A.y(0,20,0,$.bS()*0.03),new C.N0(new C.b1i(x,d),x.e,w),w)],t),B.e,B.h,B.d),!1)],t)),x.r),B.j,w,w,w,w,w,w,w,new A.y(10,5,10,5),w,w,w),B.t,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new C.b1j(d),w,w,w,w,w,w,w,w,!1,B.G)},
+return A.bz(w,A.al(w,A.hf(A.BC(0,w,w,B.y,w,B.t,w,B.aT,w,w,w,!1,w,B.H,!1,A.a([H.cYq(A.N(A.a([new D.or(v,w),A.ak(w,w,w,A.N(A.a([A.ad(A.a([A.be(x.w,1),new A.m(10,w,w,w),A.be(x.x,1)],t),B.e,B.h,B.d,w),new A.m(w,10,w,w),A.ad(A.a([A.be(x.y,1),new A.m(10,w,w,w),A.be(x.z,1)],t),B.e,B.h,B.d,w)],t),B.e,B.w,B.d),u,w,0,!1,w,w,w,w,w,!1,w,w,new A.y(10,20,10,20),8,w,!1,!1,w),new A.m(w,10,w,w),new D.or(A.d("RepaymentDate",!0),w),K.cVM(x.f,w,w,w),new A.m(w,10,w,w),new D.or(A.d("PickAmount",!0),w),x.gGo(),new E.lA(w),new A.a9(new A.y(0,20,0,$.bS()*0.03),new C.N0(new C.b1i(x,d),x.e,w),w)],t),B.e,B.h,B.d),!1)],t)),x.r),B.j,w,w,w,w,w,w,w,new A.y(10,5,10,5),w,w,w),B.t,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new C.b1j(d),w,w,w,w,w,w,w,w,!1,B.G)},
 ah_(d,e,f,g,h,i){return this.bE8(d,e,f,g,h,i)},
 bE8(d,e,f,g,h,i){var x=0,w=A.j(y.v),v,u=this,t,s,r,q,p,o,n,m
 var $async$ah_=A.e(function(j,k){if(j===1)return A.f(k,w)
@@ -178,7 +178,7 @@ r=f.d.a.a
 q=e.d.a.a
 p=h.d.a.a
 o=u.f.a
-n=A.a6(0,1,1,0,0,0,0,!1)
+n=A.a5(0,1,1,0,0,0,0,!1)
 if(!A.a0(n))A.z(A.a2(n))
 m=new A.yz(s,r,q,p,t,o)
 s=u.c
@@ -215,7 +215,7 @@ $2(d,e){var x,w=null,v=A.q(d).ax,u=v.y
 v=u==null?v.f:u
 u=this.a
 x=y.u
-return A.ak(w,w,w,A.N(A.a([A.ae(A.a([u.a_i(d,B.mA,e),u.a_i(d,B.yI,e)],x),B.e,B.h,B.d,w),A.ae(A.a([u.a_i(d,B.yH,e),u.a_i(d,B.yJ,e)],x),B.e,B.h,B.d,w)],x),B.e,B.w,B.d),v,w,0,!1,w,w,w,w,w,!1,w,w,new A.y(10,20,10,20),8,w,!1,!1,w)},
+return A.ak(w,w,w,A.N(A.a([A.ad(A.a([u.a_i(d,B.mA,e),u.a_i(d,B.yI,e)],x),B.e,B.h,B.d,w),A.ad(A.a([u.a_i(d,B.yH,e),u.a_i(d,B.yJ,e)],x),B.e,B.h,B.d,w)],x),B.e,B.w,B.d),v,w,0,!1,w,w,w,w,w,!1,w,w,new A.y(10,20,10,20),8,w,!1,!1,w)},
 $S:1373}
 C.b19.prototype={
 $1(d){var x,w=this.a
@@ -253,7 +253,7 @@ return x.ah_(this.b,x.w,x.x,x.y,x.z,x.gGo())},
 $S:3}
 C.b1y.prototype={
 $3(d,e,f){var x=null,w=e?1:0.6,v=$.aj()
-return A.ak(B.v,x,x,A.ae(A.a([A.aC(A.d("add",!0),x,x,x,x,x,A.b_(x,x,A.q(d).ax.r,x,x,x,x,x,x,x,x,19,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x),new A.m(5,x,x,x),A.bt(B.fJ,A.q(d).ax.r,x,x,24)],y.u),B.e,B.w,B.d,x),A.q(d).ax.f,x,0,!1,x,x,x,x,x,!1,this.a.c,w,new A.y(0,10,0,10),8,x,!1,!1,v*0.8)},
+return A.ak(B.v,x,x,A.ad(A.a([A.aC(A.d("add",!0),x,x,x,x,x,A.b_(x,x,A.q(d).ax.r,x,x,x,x,x,x,x,x,19,x,x,x,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x),new A.m(5,x,x,x),A.bt(B.fJ,A.q(d).ax.r,x,x,24)],y.u),B.e,B.w,B.d,x),A.q(d).ax.f,x,0,!1,x,x,x,x,x,!1,this.a.c,w,new A.y(0,10,0,10),8,x,!1,!1,v*0.8)},
 $S:261};(function installTearOffs(){var x=a._static_1
 x(C,"dPw","dIx",0)
 x(C,"dPv","dIw",0)
@@ -266,4 +266,4 @@ A.aW(b.typeUniverse,JSON.parse('{"aiO":{"A":[],"l":[]},"aiE":{"A":[],"l":[]},"ai
 var y={u:A.v("G<l>"),o:A.v("b1<hH>"),B:A.v("tg"),m:A.v("X<I>"),n:A.v("P<x>"),p:A.v("P<I>"),l:A.v("l"),b:A.v("@"),v:A.v("~")};(function constants(){F.aMK=new A.y(0,15,0,10)
 F.b1q=new A.bf([B.yH,"assets/paypal_logo.webp",B.mA,"assets/bit_logo.webp",B.yI,"assets/paybox_logo.webp",B.yJ,"assets/icons/more-information.webp"],A.v("bf<tg,n>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"mwhp3mT7qnaMn77YP5Z+C+Tukug=");
+a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"VmPFG6mQxgNIczhP4z81U4EuYT0=");

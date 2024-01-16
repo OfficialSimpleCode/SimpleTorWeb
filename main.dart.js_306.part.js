@@ -20,7 +20,7 @@ if(q.as.h(0,u.a)==null)new A.ag(A.d("thereIsProblem",!0),B.k,B.l,B.n,d).M()
 r=!1}else r=!0
 x=s===!0?4:6
 break
-case 4:A.ad("workTime")
+case 4:A.ae("workTime")
 x=7
 return A.c(A.pi(d,E.dCL(r,e,f)),$async$MH)
 case 7:v=h
@@ -44,7 +44,7 @@ break}x=6
 return A.c(A.bL(d,A.cc(A.a([A.ai("addOrUpdateTreatment",0),A.ai("treatments",0)],y.d),y.b)),$async$Wy)
 case 6:x=h===!0?3:5
 break
-case 3:A.ad("treatments")
+case 3:A.ae("treatments")
 x=7
 return A.c(A.pi(d,F.dC6(e,f)),$async$Wy)
 case 7:v=h
@@ -61,7 +61,7 @@ while(true)switch(x){case 0:x=6
 return A.c(A.bL(d,A.ai("workSettings",0)),$async$WC)
 case 6:x=f===!0?3:5
 break
-case 3:u=A.fg(new C.cQ_(),null,y.a)
+case 3:u=A.fg(new C.cPZ(),null,y.a)
 x=7
 return A.c(A.Q(d,!1).e7(u),$async$WC)
 case 7:v=f
@@ -72,7 +72,7 @@ break
 case 5:new A.ag(A.d("thereIsProblem",!0),B.k,B.l,B.n,d).M()
 case 4:case 1:return A.h(v,w)}})
 return A.i($async$WC,w)},
-cQ_:function cQ_(){}},D,E,F,G
+cPZ:function cPZ(){}},D,E,F,G
 J=c[1]
 A=c[0]
 B=c[2]
@@ -82,12 +82,12 @@ E=c[93]
 F=c[111]
 G=c[117]
 var z=a.updateTypes(["Lr(B)"])
-C.cQ_.prototype={
-$1(d){A.ad("workSettings")
+C.cPZ.prototype={
+$1(d){A.ae("workSettings")
 return G.dCK()},
 $S:z+0};(function inheritance(){var x=a.inherit
-x(C.cQ_,A.b8)})()
+x(C.cPZ,A.b8)})()
 A.aW(b.typeUniverse,JSON.parse('{"Lr":{"A":[],"l":[]}}'))
 var y={d:A.v("G<af<@>>"),b:A.v("@"),a:A.v("ah?")};(function constants(){D.D_=new A.b0(983130,"MaterialIcons",null,!1)})();(function staticFields(){$.dG=A.aQ("workContext")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_306",e:"endPart",h:b})})($__dart_deferred_initializers__,"y+S6i3ljzn7/dBkb0BGkZwiAseU=");
+a.eventLog.push({p:"main.dart.js_306",e:"endPart",h:b})})($__dart_deferred_initializers__,"SHzlut0CyGzFInZViYkDekogtVs=");

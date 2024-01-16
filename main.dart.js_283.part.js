@@ -14,7 +14,7 @@ x=u===!0?3:5
 break
 case 3:v=g!=null
 if(v)t.sj(0,A.dn([g.d],s))
-s=A.fg(new B.cQ1(f,d),null,y.b)
+s=A.fg(new B.cQ0(f,d),null,y.b)
 x=6
 return A.c(A.Q(e,!1).e7(s),$async$WD)
 case 6:if(v)t.sj(0,r)
@@ -35,7 +35,7 @@ x=u===!0?3:5
 break
 case 3:v=g!=null
 if(v)t.sj(0,A.dn([g.d],s))
-s=A.fg(new B.cP1(f,d),null,y.b)
+s=A.fg(new B.cP0(f,d),null,y.b)
 x=6
 return A.c(A.Q(e,!1).e7(s),$async$Wm)
 case 6:if(v)t.sj(0,r)
@@ -44,9 +44,9 @@ break
 case 5:new A.ag(A.d("thereIsProblem",!0),C.k,C.l,C.n,e).M()
 case 4:return A.h(null,w)}})
 return A.i($async$Wm,w)},
-cQ1:function cQ1(d,e){this.a=d
+cQ0:function cQ0(d,e){this.a=d
 this.b=e},
-cP1:function cP1(d,e){this.a=d
+cP0:function cP0(d,e){this.a=d
 this.b=e}},F
 A=c[0]
 C=c[2]
@@ -55,15 +55,15 @@ E=c[103]
 B=a.updateHolder(c[247],B)
 F=c[387]
 var z=a.updateTypes(["KT(B)","Hc(B)"])
-B.cQ1.prototype={
-$1(d){A.ad("statistcsPage")
+B.cQ0.prototype={
+$1(d){A.ae("statistcsPage")
 return D.dB8(this.b,this.a)},
 $S:z+0}
-B.cP1.prototype={
-$1(d){A.ad("customersPage")
+B.cP0.prototype={
+$1(d){A.ae("customersPage")
 return E.drQ(this.b,this.a)},
 $S:z+1};(function inheritance(){var x=a.inheritMany
-x(A.b8,[B.cQ1,B.cP1])})()
+x(A.b8,[B.cQ0,B.cP0])})()
 var y={g:A.v("n"),b:A.v("@")};(function constants(){F.ME=new A.b0(62889,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_283",e:"endPart",h:b})})($__dart_deferred_initializers__,"sx1UfCI49Ek2UTC70Me+Jvg+Xow=");
+a.eventLog.push({p:"main.dart.js_283",e:"endPart",h:b})})($__dart_deferred_initializers__,"vDbXCCVDmUft4kyDABwvzl9/i4Y=");
