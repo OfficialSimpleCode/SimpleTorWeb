@@ -1,83 +1,42 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_206",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,E,B={
-d8M(d,e,f,g,h){return new B.Ds(h,e,d,g,f,null)},
-Ds:function Ds(d,e,f,g,h,i){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+dwr(d,e,f,g){return new B.auk(e,f,d,g,null)},
+auk:function auk(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.f=g
-_.r=h
-_.a=i},
-aOR:function aOR(d){var _=this
-_.d=$
-_.e=10
-_.a=null
-_.b=d
-_.c=null},
-cqb:function cqb(d){this.a=d},
-cqa:function cqa(d){this.a=d},
-cq9:function cq9(){}}
+_.a=h},
+bwR:function bwR(d){this.a=d}}
 A=c[0]
 C=c[2]
-D=c[292]
-E=c[309]
-B=a.updateHolder(c[20],B)
-B.Ds.prototype={
-a_(){return new B.aOR(C.o)}}
-B.aOR.prototype={
-aUw(){this.d=A.vw(C.cY,new B.cqb(this))},
-an(){this.aUw()
-this.aC()},
-q(){var x=this.d
-x===$&&A.b()
-x.b8(0)
-this.aJ()},
-n(d){var x,w,v,u=this,t=null
-A.bQ(d,!0,y.f)
-x=u.d
-x===$&&A.b()
-x.b8(0)
-$.rD()
-x=y.e
-w=A.a([D.i2(E.bV,A.d("PickPlanExpalnation",!0))],x)
-v=u.a
-if(v.d)v=A.d("changePlan",!0)
-else v=v.c?A.d("purchaseWorker",!0):A.d("purchaseBusiness",!0)
-v=A.ff(w,t,t,t,t,t,A.bF(A.E(v,t,!1,!1,t,!1,!1,t,!1,!1,!1,1,t,!1,16,t,""),t,t),!0)
-w=u.c
-w.toString
-w=A.q(w)
-w=A.ak(C.v,t,t,A.N(A.a([new A.m($.aj()*0.5,t,A.aD(A.d("thereIsNoProductsInWeb",!0),t,t,t,t,t,t,C.m,t,t,t),t),u.bNN()],x),C.e,C.w,C.d),w.ax.cy,t,0,!1,t,t,t,t,t,!1,t,t,t,t,t,!1,!1,t)
-x=A.dD(v,t,w,t,t,!1,t,t,23,!1,!1,t,!1)
-return x},
-bNN(){var x=null,w=this.c
-w.toString
-w=A.q(w)
-return A.d_(A.ak(C.v,x,x,A.aD(A.d("openOnappStore",!0),x,x,x,x,x,x,C.m,x,x,x),w.ax.CW,x,0,!1,x,x,x,x,new A.y(0,20,0,0),!1,new B.cq9(),x,new A.y(20,10,20,10),x,x,!1,!1,x),C.a3)}}
+B=a.updateHolder(c[68],B)
+B.auk.prototype={
+n(d){var x,w,v,u,t=this,s=null,r=A.E(A.d("upgardeSub",!0),s,!1,!1,s,!1,!1,s,!1,!1,!1,1,s,!1,20,s,""),q=$.aj(),p=t.e
+if(p==null){if(t.d)p="lowSubPassedLimit"
+else p=t.c?"lowSubTypeAction":"lowSubTypeFeature"
+p=A.d(p,!0)}p=A.E(p,C.m,!1,!1,s,!1,!1,s,!1,!1,!1,0.7,s,!1,16,s,"")
+x=$.bS()
+if(t.f){w=$.V().gbs()===2?1:0.6
+v=$.aj()
+u=A.q(d)
+v=A.ak(C.v,s,s,A.E(A.d("upgradeTheSub",!0),s,!1,!1,s,!1,!1,s,!0,!1,!1,1,s,!1,16,s,""),u.ax.f,s,0,!1,s,s,s,s,new A.y(0,30,0,0),!1,new B.bwR(d),w,new A.y(0,10,0,10),s,s,!1,!1,v*0.6)
+w=v}else w=new A.m(s,s,s,s)
+return A.bF(A.N(A.a([new A.m(s,5,s,s),r,new A.m(s,1,s,s),new A.m(q*0.7,s,p,s),new A.m(s,10,s,s),new A.hO("assets/animations/createBusinessAnimation.json.zip",s,x*0.34,C.bq,s),w,new A.m(s,30,s,s)],y.e),C.e,C.h,C.d),s,s)}}
 var z=a.updateTypes([])
-B.cqb.prototype={
-$1(d){var x,w
-$.rD()
-x=this.a
-w=x.e
-if(w===0)x.a2(new B.cqa(x))
-else x.e=w-1},
-$S:110}
-B.cqa.prototype={
-$0(){var x=this.a.d
-x===$&&A.b()
-x.b8(0)},
-$S:0}
-B.cq9.prototype={
-$0(){return new A.ja().D8()},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.Ds,A.a1)
-x(B.aOR,A.aa)
-x(B.cqb,A.b3)
-w(A.b4,[B.cqa,B.cq9])})()
-A.aQ(b.typeUniverse,JSON.parse('{"Ds":{"a1":[],"l":[]},"aOR":{"aa":["Ds"]}}'))
-var y={e:A.u("G<l>"),f:A.u("EW")}};
+B.bwR.prototype={
+$0(){var x=0,w=A.j(y.h),v=this
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:x=2
+return A.c(A.G2(v.a,!1,!0),$async$$0)
+case 2:return A.h(null,w)}})
+return A.i($async$$0,w)},
+$S:1};(function inheritance(){var x=a.inherit
+x(B.auk,A.A)
+x(B.bwR,A.bb)})()
+A.aW(b.typeUniverse,JSON.parse('{"auk":{"A":[],"l":[]}}'))
+var y={e:A.v("G<l>"),h:A.v("ay")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_206",e:"endPart",h:b})})($__dart_deferred_initializers__,"s97KRwzzy2MVNX3gyq/mPpF9t/Q=");
+a.eventLog.push({p:"main.dart.js_206",e:"endPart",h:b})})($__dart_deferred_initializers__,"QMGs8+P9m93gu4OfekyqxZeYC5c=");

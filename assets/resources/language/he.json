@@ -3021,10 +3021,12 @@
   "treatmentColor": "צבע השירות",
   "colorOfTheTreatmentInTheSchedule": "הצבע שהשירות יופיע בלו״ז",
   "alreadyHasTreatmentWithThisColor": "קיים כבר שירות עם צבע זה",
-  "noTreatment":"חייב לפחות שירות אחד",
-  
-  "deletedClientFenale":"לקוחה מחוקה",
-  "deletedClient":"לקוח מחוק",
-  "deleted":"מחוק",
-  "overlapWithOntherItem":"האירוע חופף עם אירוע אחר"
+  "noTreatment": "חייב לפחות שירות אחד",
+  "deletedClientFenale": "לקוחה מחוקה",
+  "deletedClient": "לקוח מחוק",
+  "deleted": "מחוק",
+  "overlapWithOntherItem": "האירוע חופף עם אירוע אחר",
+  "updateTheWaitingList": "מעדכן את הלקוחות ברשימת ההמתנה...",
+  "invalidPhoneNumber": "מספר הפלאפון אינו תקין",
+  "terminalNumber": "מספר מסוף"
 }

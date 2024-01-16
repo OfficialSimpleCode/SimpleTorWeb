@@ -2,12 +2,12 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_7",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
-A=c[272]
-B=c[323]
-var z=a.updateTypes([]);(function constants(){B.ox=new A.lX(0,"workTime")
-B.yf=new A.lX(1,"treatments")
-B.oy=new A.lX(2,"notifications")
-B.oz=new A.lX(3,"workSettings")
-B.oA=new A.lX(4,"scheduleSettings")})()};
+A=c[271]
+B=c[322]
+var z=a.updateTypes([]);(function constants(){B.ow=new A.lW(0,"workTime")
+B.ye=new A.lW(1,"treatments")
+B.ox=new A.lW(2,"notifications")
+B.oy=new A.lW(3,"workSettings")
+B.oz=new A.lW(4,"scheduleSettings")})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"4+TWQ5BbGmdfztz+Yn26ZS8jvOk=");
+a.eventLog.push({p:"main.dart.js_7",e:"endPart",h:b})})($__dart_deferred_initializers__,"2B3MtIh3Sb+JklIbERBpi12ad5g=");

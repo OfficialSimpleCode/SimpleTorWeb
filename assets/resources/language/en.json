@@ -3039,10 +3039,13 @@
   "treatmentColor": "Service color",
   "colorOfTheTreatmentInTheSchedule": "The color that the service will appear in the schedule",
   "alreadyHasTreatmentWithThisColor": "There is already a treatment with this color",
-  "noTreatment":"Must have at least one service",
-  "userDeleted":"User deleted",
-  "deletedClientFenale":"Client deleted",
+  "noTreatment": "Must have at least one service",
+  "userDeleted": "User deleted",
+  "deletedClientFenale": "Client deleted",
   "deletedClient": "Deleted client",
-  "deleted":"Deleted",
-  "overlapWithOntherItem":"The event overlaps with another event"
+  "deleted": "Deleted",
+  "overlapWithOntherItem": "The event overlaps with another event",
+  "updateTheWaitingList": "Updates customers on the waiting list...",
+  "invalid Phone Number": "The phone number is invalid",
+  "terminalNumber": "terminal number"
 }

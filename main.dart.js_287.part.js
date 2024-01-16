@@ -1,69 +1,69 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_287",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,E,C={Yc:function Yc(d,e){this.c=d
-this.a=e},Yd:function Yd(d,e,f,g){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.a=g},
-dO_(d){var x
-if(!(d.gbg()>=19&&d.gbg()<=23)){d.gbg()
-x=d.gbg()<=2}else x=!0
-if(x)return A.d("night",!0)
-if(d.gbg()>=3&&d.gbg()<=4)return A.d("beforeMorning",!0)
-if(d.gbg()>=5&&d.gbg()<=11)return A.d("morning",!0)
-return A.d("noon",!0)}},D,F
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+aZj(d){var x=0,w=A.j(y.b),v,u,t,s
+var $async$aZj=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:v=A.d("logout",!0)
+u=A.aC(A.d("sureYouWantLogout",!0),null,null,null,null,null,null,C.m,null,null,null)
+t=A.d("yes",!0)
+s=J
+x=4
+return A.c(A.cX(C.k4,!1,1,!0,null,A.d("no",!0),null,u,d,C.N,20,!0,C.z,new B.cN_(d),new B.cN0(d),!1,t,v),$async$aZj)
+case 4:x=s.w(f,"OK")?2:3
+break
+case 2:v=A.Q(d,!1)
+s=J
+x=5
+return A.c(A.bB("assets/animations/success_animation.json.zip",d,C.I,B.aha(d),A.d("logoutSuccessfully",!0),v,!0,!0,!0,!1,C.L).bc(),$async$aZj)
+case 5:if(s.w(f,!0)){A.u1(d)
+A.Ex(d).afc()}case 3:return A.h(null,w)}})
+return A.i($async$aZj,w)},
+aha(d){var x=0,w=A.j(y.e),v,u
+var $async$aha=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:u=y.e
+x=3
+return A.c(A.eG(J.aJ(A.ai("userHelper.18",0),new B.cJb(),u),new B.cJc(),u,y.o),$async$aha)
+case 3:if(!f){$.bo().dr(0,"Failed to load the library UserHelper")
+v=!1
+x=1
+break}x=4
+return A.c(A.aYU(),$async$aha)
+case 4:A.ad("userHelper.18")
+x=5
+return A.c(D.eO().k6(),$async$aha)
+case 5:v=!0
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$aha,w)},
+cN_:function cN_(d){this.a=d},
+cN0:function cN0(d){this.a=d},
+cJb:function cJb(){},
+cJc:function cJc(){}}
+J=c[1]
 A=c[0]
-B=c[2]
-E=c[305]
-C=a.updateHolder(c[199],C)
-D=c[207]
-F=c[220]
-C.Yc.prototype={
-n(d){var x,w,v,u,t,s,r=null,q=this.c,p=q.Q
-if(p==null)p=q.ok
-x=$.aj()
-w=A.d("bookingTimeExplain",!0)
-v=A.dfZ(p,A.d("onDay",!0)+" ")
-w=A.M(w,"DAY",v)
-v=A.v("dd/MM/yy",$.jH().b).t(p)
-w=A.M(w,"DATE",v)
-v=A.v("HH:mm",r).t(p)
-w=A.M(w,"TIME",v)
-v=C.dO_(p)
-w=A.E(A.M(w,"PERIOD",v),r,!1,!1,r,!1,!1,r,!1,!1,!1,1,r,!1,14,r,"")
-v=$.aj()
-u=A.d("treatmentDuration",!0)
-t=F.d0n(A.Y(0,0,0,0,q.ge4(),0))
-u=A.E(A.M(u,"DURATION",t),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.ac,!1,13,r,"")
-t=A.d("treatmentPrice",!0)
-q=q.gfO().l(0)
-s=y.a
-return new A.a9(B.b9,A.N(A.a([new A.m(x*0.53,r,w,r),new A.m(r,7,r,r),new A.m(v*0.6,r,A.ad(A.a([new A.fL(1,B.bQ,u,r),new A.m(7,r,r,r),new A.fL(1,B.bQ,A.E(A.M(t,"PRICE",q),r,!1,!1,r,!1,!1,r,!1,!1,!1,0.7,B.ac,!1,13,r,""),r)],s),B.e,B.h,B.d,r),r)],s),B.ao,B.h,B.d),r)}}
-C.Yd.prototype={
-n(d){var x,w,v,u,t,s,r,q=null,p="assets/woman_profile.webp",o="assets/man_profile.webp",n=$.L(),m=this.c
-if(n.as.h(0,m.b)!=null&&m.e===n.x.go){x=n.as.h(0,m.b)
-x.toString
-w=x}else w=q
-x=m.e
-v=n.x
-u=x===v.go?v.k4.r:m.x2.Ed(x)
-x=this.d
-if(x){v=w==null?q:w.e
-if(v==null)v=""
-v=D.cVN(v,m.R8===B.ab?p:o,q,60,q,!1)}else{v=n.cx
-v.toString
-t=w==null?q:w.e
-v=D.cVN(u,v,m.R8===B.ab?p:o,60,t,!1)}t=m.gka()
-x=x?"":" "+A.d("to",!0)+" "+m.f
-s=A.d("with",!0)
-m=m.c
-r=this.e?E.cF:q
-return A.cg(!1,!1,q,!1,!1,!1,!1,!0,!1,!0,q,!1,new A.y(4,10,4,10),v,14,q,q,!1,s+" "+m,q,13,r,q,t+x,17.5,1,q)}}
-var z=a.updateTypes([]);(function inheritance(){var x=a.inheritMany
-x(A.z,[C.Yc,C.Yd])})()
-A.aQ(b.typeUniverse,JSON.parse('{"Yc":{"z":[],"l":[]},"Yd":{"z":[],"l":[]}}'))
-var y={a:A.u("G<l>")}};
+C=c[2]
+D=c[6]
+B=a.updateHolder(c[75],B)
+var z=a.updateTypes([])
+B.cN_.prototype={
+$0(){A.Q(this.a,!1).W("Cancel")
+return null},
+$S:0}
+B.cN0.prototype={
+$0(){A.Q(this.a,!1).W("OK")
+return null},
+$S:0}
+B.cJb.prototype={
+$1(d){return!0},
+$S:76}
+B.cJc.prototype={
+$2(d,e){return!1},
+$S:22};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.bb,[B.cN_,B.cN0])
+w(B.cJb,A.b8)
+w(B.cJc,A.bJ)})()
+var y={o:A.v("ah"),e:A.v("I"),b:A.v("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_287",e:"endPart",h:b})})($__dart_deferred_initializers__,"5zjQNUoxiMFGKR4aVK550MJ1JUc=");
+a.eventLog.push({p:"main.dart.js_287",e:"endPart",h:b})})($__dart_deferred_initializers__,"j6Rn3QsA/1W7nuiK7RAUWL+VenU=");
