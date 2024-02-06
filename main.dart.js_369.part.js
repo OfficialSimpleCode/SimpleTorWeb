@@ -1,68 +1,119 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_369",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,D,E,F,G,H,B={
-dCe(){return new B.Lf(null)},
-Lf:function Lf(d){this.a=d},
-c6K:function c6K(d,e,f){this.a=d
-this.b=e
-this.c=f},
-c6J:function c6J(d,e){this.a=d
-this.b=e}},C
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,D,B={N6:function N6(d,e,f,g,h,i){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.a=i},b1L:function b1L(d){this.a=d},b1J:function b1J(d,e){this.a=d
+this.b=e},b1I:function b1I(){},b1K:function b1K(d,e){this.a=d
+this.b=e},b1H:function b1H(){}},C,E
+J=c[1]
 A=c[0]
-D=c[2]
-E=c[273]
-F=c[334]
-G=c[275]
-H=c[206]
-B=a.updateHolder(c[96],B)
+D=c[6]
+B=a.updateHolder(c[163],B)
 C=c[200]
-B.Lf.prototype={
-n(d){var x,w,v,u,t=null,s=$.cUi(),r=$.an(),q=new A.P(new A.uD(s),r,y.e),p=new A.P(A.p(y.w,y.m),r,y.B),o=A.cK(t,0,!0)
-r=A.E(A.d("invoices",!0),t,!1,!1,t,!1,!1,t,!1,!1,!1,1,t,!1,16,t,"")
-r=A.fc(A.a([A.i2(D.bV,A.d("userInvoicesInfo",!0))],y.u),t,t,t,t,t,r,!0)
-s=$.dnK()
-x=A.d("noAvailableInvoices",!0)
-w=A.d("noInvoicesUser",!0)
-v=$.cUi()
-u=$.d2X()
-return A.dK(r,t,H.QK(C.a3S($.d25(),w,x,t,!0,q,new B.c6J(this,q),s,o,u,new A.uD(v),p),o,new B.c6K(this,q,p)),t,t,!1,t,t,23,!1,!1,t,!1)},
-hu(d){return this.bMu(d)},
-bMu(d){var x=0,w=A.j(y.k),v
-var $async$hu=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:$.dPf=d
+E=c[278]
+B.N6.prototype={
+n(d){return new A.W(this.c,new B.b1L(this),null,null,y.m)},
+QU(d){return this.bOn(d)},
+bOn(d){var x=0,w=A.j(y.e),v
+var $async$QU=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:x=3
+return A.c(C.W9(d),$async$QU)
+case 3:if(f!==!0){v=!1
+x=1
+break}v=!0
+x=1
+break
+case 1:return A.h(v,w)}})
+return A.i($async$QU,w)}}
+var z=a.updateTypes([])
+B.b1L.prototype={
+$3(d,e,f){var x,w=null,v=this.a,u=v.f&&!0,t=A.d("pressToaddToDeviceCalendar",!0),s=v.d
+if(s==null)s=A.d("addToDeviceCalendarExplain",!0)
+x=v.c.a
+return A.cc(!0,!0,u,!0,!1,!1,!0,!0,!1,!0,new B.b1J(v,d),!0,new A.y(7,12,7,12),new A.bf(E.dz,24,!0,1,!1,!1,!1,w,w),5,w,w,!1,s,w,13,A.fi(A.q(d).ax.f,new B.b1K(v,d),x),w,t,15,0,w)},
+$S:117}
+B.b1J.prototype={
+$0(){var x=0,w=A.j(y.p),v,u=this,t,s
+var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
+while(true)switch(x){case 0:s=u.a
+if(s.d!=null){x=1
+break}t=s.c
+x=!t.a?3:5
+break
+case 3:x=6
+return A.c(s.QU(u.b),$async$$0)
+case 6:if(!e){x=1
+break}x=4
+break
+case 5:x=7
+return A.c(C.AQ(u.b),$async$$0)
+case 7:x=1
+break
+case 4:$.U().d.k3.b=!t.a
+J.aK(A.ai("userHelper.19",0),new B.b1I(),y.f)
+t.sj(0,!t.a)
+t.D()
+case 1:return A.h(v,w)}})
+return A.i($async$$0,w)},
+$S:1}
+B.b1I.prototype={
+$1(d){var x=0,w=A.j(y.f),v
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:A.af("userHelper.19")
 x=3
-return A.c($.ru().Sx(d,$.V().d),$async$hu)
+return A.c(D.f0().EF(),$async$$1)
 case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$hu,w)}}
-var z=a.updateTypes(["af<eI>(hO)"])
-B.c6K.prototype={
-$2(d,e){var x=$.V().d.dy,w=$.cUi(),v=$.d2X()
-return A.a([C.a3R($.d25(),null,!0,w,this.b,x,this.a.gty(),v,this.c)],y.u)},
-$S:118}
-B.c6J.prototype={
-$0(){var x=0,w=A.j(y.k),v,u=this
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:x=3
-return A.c(u.a.hu(u.b.a.a),$async$$0)
-case 3:v=e
+return A.i($async$$1,w)},
+$S:38}
+B.b1K.prototype={
+$1(d){return this.aJY(d)},
+aJY(d){var x=0,w=A.j(y.f),v,u=this,t,s
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:s=u.a
+if(s.d!=null){x=1
+break}t=s.c
+x=!t.a?3:5
+break
+case 3:x=6
+return A.c(s.QU(u.b),$async$$1)
+case 6:if(!f){x=1
+break}x=4
+break
+case 5:x=7
+return A.c(C.AQ(u.b),$async$$1)
+case 7:x=1
+break
+case 4:$.U().d.k3.b=!t.a
+J.aK(A.ai("userHelper.19",0),new B.b1H(),y.f)
+t.sj(0,!t.a)
+t.D()
+case 1:return A.h(v,w)}})
+return A.i($async$$1,w)},
+$S:46}
+B.b1H.prototype={
+$1(d){var x=0,w=A.j(y.f),v
+var $async$$1=A.e(function(e,f){if(e===1)return A.f(f,w)
+while(true)switch(x){case 0:A.af("userHelper.19")
+x=3
+return A.c(D.f0().EF(),$async$$1)
+case 3:v=f
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$$0,w)},
-$S:135};(function installTearOffs(){var x=a._instance_1u
-x(B.Lf.prototype,"gty","hu",0)})();(function inheritance(){var x=a.inherit
-x(B.Lf,A.A)
-x(B.c6K,A.bJ)
-x(B.c6J,A.bb)})()
-A.aV(b.typeUniverse,JSON.parse('{"Lf":{"A":[],"l":[]}}'))
-var y={u:A.v("G<l>"),k:A.v("eI"),m:A.v("a3<n,a6>"),w:A.v("n"),e:A.v("P<eI>"),B:A.v("P<a3<n,a3<n,a6>>>")};(function lazyInitializers(){var x=a.lazyFinal,w=a.lazy
-x($,"e1R","d2X",()=>A.eP("LatestDate",y.w))
-x($,"e_q","d25",()=>A.eP(0,A.v("a6")))
-x($,"e1s","dnK",()=>A.eP(G.a4a(C.vM(A.he()),C.vM(A.he()).v(0,A.Y(1,0,0,0,0,0))),A.v("eZ")))
-w($,"dPf","cUi",()=>E.BA(A.vP(A.he()),F.ct,A.vP(A.he())))})()};
+return A.i($async$$1,w)},
+$S:38};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.N6,A.A)
+w(A.b8,[B.b1L,B.b1I,B.b1K,B.b1H])
+x(B.b1J,A.bd)})()
+A.b_(b.typeUniverse,JSON.parse('{"N6":{"A":[],"l":[]}}'))
+var y={p:A.v("aw"),m:A.v("W<J>"),e:A.v("J"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_369",e:"endPart",h:b})})($__dart_deferred_initializers__,"bcxqcq2KqA1QxWikkLPVRMx+mXw=");
+a.eventLog.push({p:"main.dart.js_369",e:"endPart",h:b})})($__dart_deferred_initializers__,"qddCMPSQZjEiiU0FrZhIpXYRyWA=");
