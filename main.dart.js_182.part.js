@@ -25,16 +25,16 @@ B.b.d4(u.c.e,new C.c2m())
 x=A.q(d)
 w=u.gb0(u)
 v=$.af()*0.05
-return A.al(t,A.K(A.a([new A.a4(new A.x(v,8,v,8),G.QI(t,0,t,t,t,u.d,!1,!0),t),A.b6(u.bA1(),1),new A.m(t,t,t,t)],y.e),B.e,B.h,B.d),B.j,x.ax.cy,new A.b4(0,1/0,0,w),t,t,t,t,t,t,t,t,t)},
+return A.al(t,A.K(A.a([new A.a4(new A.x(v,8,v,8),G.QI(t,0,t,t,t,u.d,!1,!0),t),A.b6(u.bA2(),1),new A.m(t,t,t,t)],y.e),B.e,B.h,B.d),B.j,x.ax.cy,new A.b4(0,1/0,0,w),t,t,t,t,t,t,t,t,t)},
 gb0(d){var x,w=this.c.e.length
 if(w>6)return $.bV()*0.85
 else{x=$.bV()
 return Math.max(x*0.3,x*((w+2.5)/10))}},
-bII(d){if(d===0)return new D.oi(A.c("noBookings",!0),null)
+bIJ(d){if(d===0)return new D.oi(A.c("noBookings",!0),null)
 if(d===1)return new D.oi(A.c("youHaveOneAvailableBookings",!0),null)
 return new D.oi(""+d+" "+A.c("orders",!0)+":",null)},
-bA1(){return new A.P(this.d,new C.c2o(this),null,null,y.m)},
-bDC(d){var x=A.a([],y.o)
+bA2(){return new A.P(this.d,new C.c2o(this),null,null,y.m)},
+bDD(d){var x=A.a([],y.o)
 B.b.p(this.c.e,new C.c2p(d,x))
 return x}}
 var z=a.updateTypes([])
@@ -47,8 +47,8 @@ x.toString
 return-w.ba(0,x)},
 $S:466}
 C.c2o.prototype={
-$3(d,e,f){var x=null,w=this.a,v=w.bDC(e)
-return A.K(A.a([new A.a4(B.bo,w.bII(v.length),x),A.b6(A.iK(x,B.y,x,new C.c2n(w,v),v.length+1,x,x,B.aV,new A.x(0,0,0,0),x,x,!1,B.F,!1),1)],y.e),B.e,B.h,B.d)},
+$3(d,e,f){var x=null,w=this.a,v=w.bDD(e)
+return A.K(A.a([new A.a4(B.bo,w.bIJ(v.length),x),A.b6(A.iK(x,B.y,x,new C.c2n(w,v),v.length+1,x,x,B.aV,new A.x(0,0,0,0),x,x,!1,B.F,!1),1)],y.e),B.e,B.h,B.d)},
 $S:521}
 C.c2n.prototype={
 $2(d,e){var x,w,v=null,u=this.b
@@ -67,4 +67,4 @@ w(A.b_,[C.c2o,C.c2p])})()
 A.aS(b.typeUniverse,JSON.parse('{"aDQ":{"y":[],"k":[]}}'))
 var y={o:A.t("E<nE>"),e:A.t("E<k>"),m:A.t("P<o>"),n:A.t("M<o>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_182",e:"endPart",h:b})})($__dart_deferred_initializers__,"q0Ro9xwnNSc3y5nBsFdPLHxUqxg=");
+a.eventLog.push({p:"main.dart.js_182",e:"endPart",h:b})})($__dart_deferred_initializers__,"ufCHyMdLSHYPohV38kXhPgzAP8k=");

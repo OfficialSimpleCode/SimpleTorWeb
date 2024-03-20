@@ -99,8 +99,8 @@ R=c[221]
 C.Vx.prototype={
 n(d){var x=this,w=y.N,v=y.Y,u=new A.M(A.p(w,v),$.ak(),y.c),t=x.c
 return E.d9y(new C.b0t(x,d),A.d4(t.xr.gzp(),w,v),x.d,u,x.f-x.e.a.gl2(),new C.b0u(u),null,!0,t)},
-Bo(d,e){return this.btu(d,e)},
-btu(d,e){var x=0,w=A.i(y.z),v,u=this,t,s,r,q,p,o,n,m,l
+Bo(d,e){return this.btv(d,e)},
+btv(d,e){var x=0,w=A.i(y.z),v,u=this,t,s,r,q,p,o,n,m,l
 var $async$Bo=A.d(function(f,g){if(f===1)return A.e(g,w)
 while(true)switch(x){case 0:n={}
 m=J.a1(e)
@@ -128,13 +128,13 @@ r=D.hQ()
 q=s.a
 p=q.at
 p.toString
-n.a=r.aUd(!1,p,!1,e,q,u.c,!0)}else{A.ac("multi_booking_helper.3")
+n.a=r.aUe(!1,p,!1,e,q,u.c,!0)}else{A.ac("multi_booking_helper.3")
 r=D.hQ()
 q=A.I8(s.a)
 p=s.a.k1
 o=p==null?null:p.d
 p=o===!0?p.a:null
-n.a=r.aU9(!1,q,e,p,u.c,!0)}n.b=null
+n.a=r.aUa(!1,q,e,p,u.c,!0)}n.b=null
 r=A.O(d,!1)
 x=7
 return A.b(A.bs("assets/animations/success_animation.json.zip",d,B.D,A.fT(new C.b0r(n),y.y),A.c("clientAdded",!0),r,!0,!1,!0,B.H).b6(),$async$Bo)
@@ -182,15 +182,15 @@ q=n==null?q.f:n
 q=new A.a4(B.kd,A.c1(!1,q,B.ay,M.hY,!0,!1,l,B.L,l,!0,l,!1,new A.x(1,1,1,1),l,l,l,15,l,l),l)}else q=new A.m(l,l,l,l)
 if(!j.at){k=k.a.ax.e
 k===$&&A.j()
-k=j.aEU(k.a)}else k=!0
+k=j.aEV(k.a)}else k=!0
 k=k?new A.a4(B.kd,A.B($.I().w.b.c,l,!1,!1,l,!1,!1,l,!1,!0,!1,1,l,!1,16,l,""),l):new A.m(l,l,l,l)
 n=j.fr?new A.a4(B.kd,new A.b1(B.dX,19,!1,1,!1,!1,!1,B.bN,l),l):new A.m(l,l,l,l)
 n=A.a8(A.a([r,new A.m(5,l,l,l),p,new A.m(10,l,l,l),q,k,n,B.cq],o),B.e,B.h,B.d,l)
 k=y.x
 r=A.cB(d,B.aE,k).eV()?2:l
 k=!A.cB(d,B.aE,k).eV()?2:l
-return A.K(A.a([new A.m(v,l,A.K(A.a([A.ai(l,l,s,A.ld(new A.a4(new A.x(10,10,10,10),new A.bT(B.a_,l,B.Q,B.y,A.a([n,A.cy(l,A.ai(l,l,l,l,m.a6A(j.r),l,0,!1,l,8,l,l,l,!1,l,l,l,l,l,!1,!1,8),l,l,k,r,2,l)],o),l),l),l,!1,!1,new C.bCL(m,d),l),u.ax.cy,l,0,!1,l,l,l,l,new A.x(0,7,0,7),!1,l,l,l,10,l,!1,!1,v)],o),B.e,B.h,B.d),l)],o),B.e,B.h,B.d)},
-a6A(d){var x,w=this.e.xr,v=w.a.h(0,d)
+return A.K(A.a([new A.m(v,l,A.K(A.a([A.ai(l,l,s,A.ld(new A.a4(new A.x(10,10,10,10),new A.bT(B.a_,l,B.Q,B.y,A.a([n,A.cy(l,A.ai(l,l,l,l,m.a6B(j.r),l,0,!1,l,8,l,l,l,!1,l,l,l,l,l,!1,!1,8),l,l,k,r,2,l)],o),l),l),l,!1,!1,new C.bCL(m,d),l),u.ax.cy,l,0,!1,l,l,l,l,new A.x(0,7,0,7),!1,l,l,l,10,l,!1,!1,v)],o),B.e,B.h,B.d),l)],o),B.e,B.h,B.d)},
+a6B(d){var x,w=this.e.xr,v=w.a.h(0,d)
 if(v==null)return B.z
 x=v.v7(w.b.b,$.bL().a)
 w=$.Vj().h(0,x)
@@ -203,7 +203,7 @@ w=x.a
 v=w.at
 s=v==null?w.a:v
 return A.bu(t,A.dm(r,new K.vX(u.f,!0,s,new A.P(x,new C.c7v(u),t,t,y.f),t),t,t,!1,t,t,23,!1,!1,t,!1,!0),B.t,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new C.c7w(d),t,t,t,t,t,t,t,t,!1,B.E)},
-bIC(d,e,f){return new A.P(e,new C.c7A(this,e,f),null,null,y.B)}}
+bID(d,e,f){return new A.P(e,new C.c7A(this,e,f),null,null,y.B)}}
 var z=a.updateTypes([])
 C.cKE.prototype={
 $0(){A.O(this.a,!1).S(!1)
@@ -277,7 +277,7 @@ if(w&&!n.a.gfF()){v=A.c("showToNewUsers",!1)
 m=A.ai(q,q,q,Q.daR(n,!1,!1,new A.x(16,12,16,12),A.c("showWaitingListToNewClients",!1),v,p.f),q,q,0,!1,q,q,q,q,new A.x(10,5,10,5),!1,q,q,q,q,q,!1,!1,m)}else m=new A.m(q,q,q,q)
 v=w?A.ch(q,q,0.8):new A.m(q,q,q,q)
 t=A.b6(new A.a4(B.bw,R.QI(q,0,q,q,q,s,!1,!0),q),1)
-p=A.QF(A.K(A.a([m,v,new A.a4(B.hf,A.a8(A.a([t,w?new A.m(q,q,q,q):new C.Vx(p.f,A.br(B.bz,q,q,q,q),n,p.z,q)],u),B.e,B.h,B.d,q),q),p.bIC(0,s,r)],u),B.e,B.h,B.d),!1,60,r)}return A.K(A.a([o,new A.m(q,5,q,q),A.b6(p,1)],u),B.e,B.h,B.d)},
+p=A.QF(A.K(A.a([m,v,new A.a4(B.hf,A.a8(A.a([t,w?new A.m(q,q,q,q):new C.Vx(p.f,A.br(B.bz,q,q,q,q),n,p.z,q)],u),B.e,B.h,B.d,q),q),p.bID(0,s,r)],u),B.e,B.h,B.d),!1,60,r)}return A.K(A.a([o,new A.m(q,5,q,q),A.b6(p,1)],u),B.e,B.h,B.d)},
 $S:1239}
 C.c7A.prototype={
 $3(d,e,f){var x=null,w=A.p(y.N,y.z),v=this.a,u=this.b,t=v.c.a
@@ -308,4 +308,4 @@ A.aS(b.typeUniverse,JSON.parse('{"Vx":{"y":[],"k":[]},"ap1":{"y":[],"k":[]},"avF
 var y=(function rtii(){var x=A.t
 return{x:x("me"),b:x("ag<dz?>"),p:x("E<k>"),O:x("ll"),Y:x("fp"),N:x("o"),f:x("P<dz>"),B:x("P<o>"),c:x("M<a9<o,fp>>"),q:x("M<o>"),y:x("H"),z:x("@"),u:x("dz?"),d:x("H?"),H:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_494",e:"endPart",h:b})})($__dart_deferred_initializers__,"RC0ncM3oJh62Bfqbs+IhcXKtX8Y=");
+a.eventLog.push({p:"main.dart.js_494",e:"endPart",h:b})})($__dart_deferred_initializers__,"XOgLyTWzHTx+gDUgcite3OIt1rY=");

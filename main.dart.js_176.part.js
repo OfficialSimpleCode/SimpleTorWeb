@@ -47,17 +47,17 @@ u=P.lF(p,new B.bd0(d),new B.bd1(d,o),p)
 t=A.B(A.c("copyToWorkerSettings",!0),p,!1,!1,p,!1,!1,p,!1,!1,!1,1,p,!1,19,p,"")
 s=$.af()
 r=A.B(A.c(w?"pickSettingsYpuWantToCopyManager":"pickSettingsYpuWantToCopyAfterCreate",!0),C.n,!1,!1,p,!1,!1,p,!1,!1,!1,0.7,p,!1,15,p,"")
-w=w?A.b6(A.d9(q.aBm(0,m),p,C.t,p,p,p,p,C.F),1):q.aBm(0,m)
+w=w?A.b6(A.d9(q.aBo(0,m),p,C.t,p,p,p,p,C.F),1):q.aBo(0,m)
 return A.al(p,A.K(A.a([u,new A.a4(C.bw,t,p),new A.m(s*0.8,p,new A.a4(O.k8,r,p),p),w],n),C.e,C.h,C.d),C.j,x.ax.cy,v,p,p,p,p,p,N.lH,p,p,p)},
-aBm(d,e){var x=null
+aBo(d,e){var x=null
 return A.K(C.b.ak(e,A.a([new A.a4(C.KC,A.B(A.c("theSettingsCanBeChangedAfterManager",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,0.7,x,!1,14,x,""),x),new A.m(x,30,x,x)],y.e)),C.e,C.h,C.d)},
-aUr(d,e,f){return new A.P(f,new B.bd4(this,f,e),null,null,y.m)}}
+aUs(d,e,f){return new A.P(f,new B.bd4(this,f,e),null,null,y.m)}}
 var z=a.updateTypes(["~(lS)","j0(z,bY<lS>,k?)"])
 B.bd_.prototype={
 $1(d){var x=this,w=x.a
 if(w.c&&E.b8l.u(0,d))return
 if(w.d.u(0,d))return
-x.b.push(w.aUr(x.c,d,x.d))},
+x.b.push(w.aUs(x.c,d,x.d))},
 $S:z+0}
 B.bd1.prototype={
 $0(){var x=this.b.a
@@ -98,4 +98,4 @@ E.b8l=new A.hz([D.oL,D.oM,D.oN,D.oO],A.t("hz<lS>"))})();(function lazyInitialize
 x($,"dWZ","d36",()=>A.F([D.oL,"workTime",D.yy,"treatments",D.oM,"notifications",D.oN,"workSettings",D.oO,"scheduleSettings",F.mw,"clients"],y.j,A.t("o")))
 x($,"dWY","dlU",()=>A.F([D.oL,H.f6,D.yy,K.lW,D.oM,G.iP,D.oN,L.MR,D.oO,I.iQ,F.mw,M.f4],y.j,A.t("aT")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_176",e:"endPart",h:b})})($__dart_deferred_initializers__,"Qeqy/YUSO34zjzZAgpa6biohMRI=");
+a.eventLog.push({p:"main.dart.js_176",e:"endPart",h:b})})($__dart_deferred_initializers__,"c4X9rtPitpf3TCPxGXn8Ir+LorE=");

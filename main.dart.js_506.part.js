@@ -14,7 +14,7 @@ t=$.agY()
 s=e.cy
 s.toString
 x=6
-return A.b(A.bs("assets/animations/delete_animation.json.zip",d,C.D,t.a_P(s),A.c("eventDeleteSuccessfully",!0),u,!0,!1,!0,C.H).b6(),$async$afF)
+return A.b(A.bs("assets/animations/delete_animation.json.zip",d,C.D,t.a_Q(s),A.c("eventDeleteSuccessfully",!0),u,!0,!1,!0,C.H).b6(),$async$afF)
 case 6:if(h){if(e.cy!=null)J.eP($.bL().a.gfR().d,e.cy.a)
 t=$.cU()
 u=t.k3
@@ -53,4 +53,4 @@ $S:0};(function inheritance(){var x=a.inheritMany
 x(A.b2,[B.cJr,B.cJs])})()
 var y={h:A.t("H?"),f:A.t("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_506",e:"endPart",h:b})})($__dart_deferred_initializers__,"1QEPE3t3dQug7Hax3INKv4uuzdY=");
+a.eventLog.push({p:"main.dart.js_506",e:"endPart",h:b})})($__dart_deferred_initializers__,"1yG1d+e56vWLl+9art8mhX2UvP0=");

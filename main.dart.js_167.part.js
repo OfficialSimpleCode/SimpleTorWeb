@@ -38,13 +38,13 @@ a0(){return new B.aRX(C.o)}}
 B.aRX.prototype={
 ao(){this.aB()
 $.aZ.ag$.push(new B.cys(this))},
-gaeW(){var x=this.a.c
+gaeX(){var x=this.a.c
 return x==null?$.I().w:x},
 n(d){return new G.og(new A.ek(new B.cyr(this),null),null)},
-gbtZ(){var x=null,w=A.B(A.c("sharing",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,16,x,""),v=$.bt().cy.h(0,"copyLink")
+gbu_(){var x=null,w=A.B(A.c("sharing",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,16,x,""),v=$.bt().cy.h(0,"copyLink")
 v.toString
-return A.ev(A.a([new A.a4(H.nT,A.hx(!0,x,this.aT9(),!1,!1,x,new B.cyq(this),v,C.bm,"shareBusinessCopyLinkShowcase"),x)],y.e),x,x,x,w,!0)},
-aT9(){return A.d2(A.a6O(-0.7853981633974483,new A.b1(K.t7,28,!1,1,!1,!1,!1,null,null)),new B.cyu(this),1)}}
+return A.ev(A.a([new A.a4(H.nT,A.hx(!0,x,this.aTa(),!1,!1,x,new B.cyq(this),v,C.bm,"shareBusinessCopyLinkShowcase"),x)],y.e),x,x,x,w,!0)},
+aTa(){return A.d2(A.a6O(-0.7853981633974483,new A.b1(K.t7,28,!1,1,!1,!1,!1,null,null)),new B.cyu(this),1)}}
 B.aop.prototype={
 n(d){var x=null,w=this.c,v=w==null,u=v?x:w.id
 u=A.B(u==null?$.I().w.id:u,C.n,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,18,x,"")
@@ -64,8 +64,8 @@ w=$.l5()?D.t5:D.t9
 return A.hx(!0,v,A.cs(A.ai(v,v,v,A.a8(A.a([new A.b1(w,24*A.EM().a,!1,1,!0,!1,!1,v,v),new A.m(7,v,v,v),A.B(A.c("share",!0),v,!1,!1,v,!1,!1,v,!0,!1,!1,1,v,!1,18,v,"")],y.e),C.e,C.w,C.d,v),x.ax.f,v,0,!1,v,v,v,v,v,!1,new B.bW2(this),v,new A.x(10,12,10,12),v,v,!1,!1,240),C.W),!1,!1,new B.bW3(d),v,u,C.c4,"shareBusinessShareButtonShowcase")}}
 var z=a.updateTypes([])
 B.cys.prototype={
-$1(d){return this.aNJ(d)},
-aNJ(d){var x=0,w=A.i(y.f),v=this,u,t
+$1(d){return this.aNK(d)},
+aNK(d){var x=0,w=A.i(y.f),v=this,u,t
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=$.bt()
 t=v.a.d
@@ -77,10 +77,10 @@ $S:33}
 B.cyr.prototype={
 $1(d){var x,w,v,u,t,s=null,r="https://simpletor.app/business/",q=this.a
 q.d=d
-x=q.gbtZ()
+x=q.gbu_()
 w=$.af()
 v=q.a.c
-u=q.gaeW()
+u=q.gaeX()
 w=A.al(s,new B.aop(v,r+u.gv_(u),s),C.j,s,s,s,s,s,s,s,new A.x(0,37.5,0,0),s,s,w*0.84)
 u=q.a.c
 v=u==null?s:u.p3.r
@@ -90,7 +90,7 @@ u.toString
 t=y.e
 u=A.a([w,A.cy(s,A.ej(v,75,u,!1),s,s,s,s,0,s)],t)
 v=q.a.c
-q=q.gaeW()
+q=q.gaeX()
 return A.dm(x,A.al(C.v,A.K(A.a([new A.bT(C.v,s,C.Q,C.y,u,s),new A.m(s,14,s,s),new B.asG(s),new F.lv(s),new B.aB3(v,r+q.gv_(q),s)],t),C.e,C.w,C.d),C.j,s,s,s,s,s,s,s,new A.x(0,60,0,60),s,s,s),s,s,!1,s,s,23,!1,!1,s,!1,!0)},
 $S:102}
 B.cyq.prototype={
@@ -107,7 +107,7 @@ A.ck(null,null)}return A.f(null,w)}})
 return A.h($async$$0,w)},
 $S:1}
 B.cyu.prototype={
-$0(){var x=this.a,w=x.gaeW()
+$0(){var x=this.a,w=x.gaeX()
 A.qo(new A.oc("https://simpletor.app/business/"+w.gv_(w))).I(0,new B.cyt(x),y.p)},
 $S:0}
 B.cyt.prototype={
@@ -147,4 +147,4 @@ w(A.y,[B.aop,B.asG,B.aB3])})()
 A.aS(b.typeUniverse,JSON.parse('{"Jp":{"a2":[],"k":[]},"aRX":{"aa":["Jp"]},"aop":{"y":[],"k":[]},"asG":{"y":[],"k":[]},"aB3":{"y":[],"k":[]}}'))
 var y={e:A.t("E<k>"),p:A.t("as"),f:A.t("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_167",e:"endPart",h:b})})($__dart_deferred_initializers__,"/cfdRCbBqgwz2tcbBw49QYNxO8c=");
+a.eventLog.push({p:"main.dart.js_167",e:"endPart",h:b})})($__dart_deferred_initializers__,"S+9JeAoAU7HIiRhqR1Uvbaxq5g4=");

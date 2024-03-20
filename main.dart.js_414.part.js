@@ -32,8 +32,8 @@ return new A.P(new A.M(!1,x,y.B),new B.crL(this),w,w,y.m)}}
 B.I2.prototype={
 n(d){var x=null
 $.aWV.b=d
-return A.dm(A.ev(x,x,x,x,A.B(A.c("messageControl",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,16,x,""),!0),A.fQ(A.a([D.cn($.d3a(),x,x,x,A.c("regularMessageCounterExplain",!0),x,!0,x,x,x,x,x),D.cn($.d2L(),x,x,x,A.c("consumableMessageCounterExplain",!0),x,!0,x,x,x,x,x),this.bvg()],y.u),C.aV,x,x,!1),x,x,!1,x,x,23,!1,!1,x,!0,!0)},
-bvg(){return new A.P($.I().at,new B.bx9(),null,null,y.x)}}
+return A.dm(A.ev(x,x,x,x,A.B(A.c("messageControl",!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,1,x,!1,16,x,""),!0),A.fQ(A.a([D.cn($.d3a(),x,x,x,A.c("regularMessageCounterExplain",!0),x,!0,x,x,x,x,x),D.cn($.d2L(),x,x,x,A.c("consumableMessageCounterExplain",!0),x,!0,x,x,x,x,x),this.bvh()],y.u),C.aV,x,x,!1),x,x,!1,x,x,23,!1,!1,x,!0,!0)},
+bvh(){return new A.P($.I().at,new B.bx9(),null,null,y.x)}}
 var z=a.updateTypes([])
 B.crL.prototype={
 $3(d,e,f){var x,w,v=null,u=this.a,t=A.T(0,0,0,300,0,0),s=e?0:1,r=$.eO()
@@ -88,4 +88,4 @@ var y={u:A.t("E<k>"),F:A.t("as"),x:A.t("P<jT>"),m:A.t("P<H>"),B:A.t("M<H>"),v:A.
 x($,"dVE","dlw",()=>{var w=null
 return A.a([D.bv(!1,!1,I.J,w,w,!0,!1,H.MZ,25,!1,!1,A.a([D.lu("messageControl")],A.t("E<Jk>")),"buyMessages",!1,!1,w,w,w,new B.cGL(),0,w,!0,!0,w,w,w,!0,!0,w,w,!0,w)],A.t("E<lt>"))})})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_414",e:"endPart",h:b})})($__dart_deferred_initializers__,"xPl5hujmo2bfr2phratsmELPbE0=");
+a.eventLog.push({p:"main.dart.js_414",e:"endPart",h:b})})($__dart_deferred_initializers__,"VQzMA3m0SS2VXx0PjP1ruT3t0xY=");

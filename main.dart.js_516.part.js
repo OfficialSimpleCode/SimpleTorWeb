@@ -58,14 +58,14 @@ n(d){var x={},w=new A.M(this.c.V.z,$.ak(),y.K)
 x.a=!0
 $.aZ.ag$.push(new C.bGi(x))
 return new A.P(w,new C.bGj(x,this,w),null,null,y.X)},
-aj3(d,e){var x=null
+aj5(d,e){var x=null
 return A.K(A.a([new A.m(x,10,x,x),new A.a4(B.bo,new A.bK(B.bE,x,x,new A.m(250,x,A.B(A.c(D.zz.u(0,e.a)?"ifThereIsNoApp":"ifUserNotVerifyHisPhone",!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,1,x,!1,13,x,""),x),x),x),new A.m(x,5,x,x),A.a8(d,B.e,B.mv,B.d,x)],y.p),B.e,B.h,B.d)},
-a3R(d,e,f){var x,w,v,u,t,s,r=this,q=null
+a3S(d,e,f){var x,w,v,u,t,s,r=this,q=null
 switch(e.a){case 0:x=A.br(F.i0,A.q(d).ax.f,q,q,q)
 break
 case 3:x=A.br(B.hX,A.q(d).ax.f,q,q,q)
 break
-case 6:x=r.ajm(d)
+case 6:x=r.ajo(d)
 break
 case 7:x=A.br(B.hX,A.q(d).ax.f,q,q,q)
 break
@@ -77,9 +77,9 @@ case 4:x=A.br(B.hZ,A.q(d).ax.f,q,q,q)
 break
 case 5:x=A.br(B.hZ,A.q(d).ax.f,q,q,q)
 break
-case 1:x=r.ajm(d)
+case 1:x=r.ajo(d)
 break
-case 2:x=r.ajm(d)
+case 2:x=r.ajo(d)
 break
 default:x=q}w=D.FS.u(0,f.a)&&e===B.hC
 v=D.FR.u(0,f.a)&&e===B.kQ
@@ -92,7 +92,7 @@ u=t?1:0.5
 s=B.yC.h(0,e)
 s.toString
 return new A.a4(B.bo,A.cR(A.c1(!1,q,q,q,!0,!1,q,q,q,!0,new C.bGl(r,f,e,d),!1,q,q,q,q,q,A.c(s,!0),x),u),q)},
-ajm(d){var x=A.q(d),w=$.d1().c.ax.a===B.aM,v=w?B.AN:B.aa1
+ajo(d){var x=A.q(d),w=$.d1().c.ax.a===B.aM,v=w?B.AN:B.aa1
 return new A.a4(D.aO7,new A.lE(new A.lK(x.ax.f,v),A.ej("",23,w?"assets/launch_icon.webp":"assets/logoDark.webp",!1),null),null)}}
 C.Kd.prototype={
 n(d){var x,w=null,v={}
@@ -104,7 +104,7 @@ x=$.bh()
 if($.I().Q.h(0,x.b.a)==null)return new A.m(w,w,w,w)
 v.a=A.cI(w,0,!0)
 return new H.og(new A.ek(new C.caI(v,this),w),w)},
-bX3(d){var x,w,v,u,t=null
+bX4(d){var x,w,v,u,t=null
 if($.S().gbo()<1)return new A.m(t,t,t,t)
 if($.aJ==="")return new A.m(t,t,t,t)
 x=A.aj($.d3P(),!0,y.J)
@@ -117,7 +117,7 @@ u=w.Q.h(0,u.b.a).d
 if(B.i.dM(v,A.L(u,"+","")))B.b.a6(x,$.d3c())
 v=$.bt().CW.h(0,"eventNotifications")
 return E.cn(x,t,t,t,A.c("youCanGetNotifications",!1),new A.dU(),!0,t,new C.caJ(d),v,B.c4,"eventsNotificationShowcase")},
-bDu(){var x,w,v,u,t=null
+bDv(){var x,w,v,u,t=null
 if($.S().gbo()<1)return new A.m(t,t,t,t)
 x=A.aj($.d2V(),!0,y.J)
 w=$.aJ
@@ -127,8 +127,8 @@ if(B.i.dM(w,A.L(u,"+","")))B.b.a6(x,$.d37())
 return E.cn(x,t,t,t,A.c("sendToAllClients",!0),t,!0,t,t,t,t,t)}}
 var z=a.updateTypes([])
 C.bGi.prototype={
-$1(d){return this.aLy(d)},
-aLy(d){var x=0,w=A.i(y.H),v=this
+$1(d){return this.aLz(d)},
+aLz(d){var x=0,w=A.i(y.H),v=this
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:v.a.a=!1
 return A.f(null,w)}})
@@ -148,15 +148,15 @@ u=this.a
 t=u.a
 s=A.T(0,0,0,400,0,0)
 r=D.zz.u(0,x.a)
-r=A.mp(i.aj3(l,x),t,s,r)
+r=A.mp(i.aj5(l,x),t,s,r)
 s=u.a
 t=A.T(0,0,0,400,0,0)
 q=D.FS.u(0,x.a)
-q=A.mp(i.aj3(j,x),s,t,q)
+q=A.mp(i.aj5(j,x),s,t,q)
 t=u.a
 s=A.T(0,0,0,400,0,0)
 p=D.FR.u(0,x.a)
-p=A.mp(i.aj3(k,x),t,s,p)
+p=A.mp(i.aj5(k,x),t,s,p)
 u=u.a
 s=A.T(0,0,0,400,0,0)
 i=D.FR.u(0,x.a)||D.FS.u(0,x.a)
@@ -164,19 +164,19 @@ return A.K(A.a([new A.a4(B.bo,new A.bK(B.bE,o,o,new A.m(250,o,w,o),o),o),new A.m
 $S:1373}
 C.bGe.prototype={
 $1(d){var x=this
-x.b.push(x.a.a3R(x.c,d,x.d))},
+x.b.push(x.a.a3S(x.c,d,x.d))},
 $S:202}
 C.bGf.prototype={
 $1(d){var x=this
-x.b.push(x.a.a3R(x.c,d,x.d))},
+x.b.push(x.a.a3S(x.c,d,x.d))},
 $S:202}
 C.bGg.prototype={
 $1(d){var x=this
-x.b.push(x.a.a3R(x.c,d,x.d))},
+x.b.push(x.a.a3S(x.c,d,x.d))},
 $S:202}
 C.bGh.prototype={
 $1(d){var x=this
-x.b.push(x.a.a3R(x.c,d,x.d))},
+x.b.push(x.a.a3S(x.c,d,x.d))},
 $S:202}
 C.bGl.prototype={
 $0(){var x,w=this,v=w.b
@@ -199,7 +199,7 @@ s=u.a.c
 r=A.m5(s.V.H())
 r.z=u.b.a
 x=3
-return A.b(t.amw(r,s),$async$$1)
+return A.b(t.amy(r,s),$async$$1)
 case 3:v=f
 x=1
 break
@@ -207,8 +207,8 @@ case 1:return A.f(v,w)}})
 return A.h($async$$1,w)},
 $S:4}
 C.caH.prototype={
-$1(d){return this.aNf(d)},
-aNf(d){var x=0,w=A.i(y.H),v=this,u,t,s
+$1(d){return this.aNg(d)},
+aNg(d){var x=0,w=A.i(y.H),v=this,u,t,s
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:s=v.a
 A.F([B.ft,3,B.hJ,1,B.ig,1,B.fs,1,B.jE,1,B.zB,1,B.mY,1],y.a,y.S).p(0,new C.caG(s))
@@ -225,7 +225,7 @@ $S:33}
 C.caG.prototype={
 $2(d,e){var x=$.bt(),w=this.a,v=w.b
 v.toString
-x.afy(v,w.a,d,e)},
+x.afz(v,w.a,d,e)},
 $S:302}
 C.caI.prototype={
 $1(d){var x,w,v,u,t,s,r,q=null
@@ -242,7 +242,7 @@ t=A.c("MessagesBalanceExplain",!0)
 t=E.cn($.d39(),q,q,q,t,new A.dU(),!0,q,q,q,q,q)
 s=A.c("messageSettings",!0)
 r=this.b
-return A.dm(u,K.a7q(A.fQ(A.a([new C.aks(q),t,E.cn($.d2I(),q,q,q,s,new A.dU(),!0,q,q,q,q,q),r.bDu(),r.bX3(d)],y.p),B.aV,q,x,!1),B.Ab),q,q,!1,q,q,23,!1,!1,w,!0,!0)},
+return A.dm(u,K.a7q(A.fQ(A.a([new C.aks(q),t,E.cn($.d2I(),q,q,q,s,new A.dU(),!0,q,q,q,q,q),r.bDv(),r.bX4(d)],y.p),B.aV,q,x,!1),B.Ab),q,q,!1,q,q,23,!1,!1,w,!0,!0)},
 $S:102}
 C.caJ.prototype={
 $0(){var x=0,w=A.i(y.P),v=this,u
@@ -267,4 +267,4 @@ D.zz=new A.hz([B.kS,B.kR,B.cR,B.fp],y.D)
 D.FR=new A.hz([B.kQ,B.mF,B.mG],y.D)
 D.FS=new A.hz([B.hC,B.p4,B.mH],y.D)})();(function staticFields(){$.dfk=A.a([B.kQ,B.hC,B.fp],y.M)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_516",e:"endPart",h:b})})($__dart_deferred_initializers__,"65DVUk3Ro5xG9FvowLoCGUCmovU=");
+a.eventLog.push({p:"main.dart.js_516",e:"endPart",h:b})})($__dart_deferred_initializers__,"htS5WyqSRVvUbSmP4dAgEddszII=");

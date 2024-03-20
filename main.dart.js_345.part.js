@@ -34,30 +34,30 @@ F=c[350]
 G=c[348]
 H=c[253]
 B.bOL.prototype={
-D9(d,e,f){return this.bPK(d,e,f)},
-bPK(d,e,f){var x=0,w=A.i(y.e),v,u=2,t,s=this,r,q,p,o,n,m
-var $async$D9=A.d(function(g,h){if(g===1){t=h
+Da(d,e,f){return this.bPL(d,e,f)},
+bPL(d,e,f){var x=0,w=A.i(y.e),v,u=2,t,s=this,r,q,p,o,n,m
+var $async$Da=A.d(function(g,h){if(g===1){t=h
 x=u}while(true)switch(x){case 0:u=4
 if(f===""){v=!1
 x=1
 break}x=7
-return A.b($.mN().HN(f),$async$D9)
+return A.b($.mN().HN(f),$async$Da)
 case 7:x=$.aZX()?8:10
 break
 case 8:p=$.Vf()
 o=$.cUF().e.h(0,e.grO(e))
 o.toString
 x=11
-return A.b(p.R1(o),$async$D9)
+return A.b(p.R2(o),$async$Da)
 case 11:x=9
 break
 case 10:x=12
-return A.b($.Vf().aHa(e.grO(e)),$async$D9)
+return A.b($.Vf().aHb(e.grO(e)),$async$Da)
 case 12:case 9:o=e.grO(e).split(":")[0]
 r=A.dG(A.L(o,"simpletor_messages_package_",""),null,null)
 $.eX()
 x=13
-return A.b(s.a.wA("Businesses/"+d+"/BusinessData",C.cm,r,"messagesCounterConsumable").I(0,new B.bOM(e),y.F),$async$D9)
+return A.b(s.a.wA("Businesses/"+d+"/BusinessData",C.cm,r,"messagesCounterConsumable").I(0,new B.bOM(e),y.F),$async$Da)
 case 13:$.be().d_(0,"User purchase product successfully")
 v=!0
 x=1
@@ -78,32 +78,32 @@ case 3:x=2
 break
 case 6:case 1:return A.f(v,w)
 case 2:return A.e(t,w)}})
-return A.h($async$D9,w)},
-Da(d,e,f){return this.bPN(d,e,f)},
-bPN(d,e,f){var x=0,w=A.i(y.e),v,u=2,t,s=this,r,q,p,o,n,m
-var $async$Da=A.d(function(g,h){if(g===1){t=h
+return A.h($async$Da,w)},
+Db(d,e,f){return this.bPO(d,e,f)},
+bPO(d,e,f){var x=0,w=A.i(y.e),v,u=2,t,s=this,r,q,p,o,n,m
+var $async$Db=A.d(function(g,h){if(g===1){t=h
 x=u}while(true)switch(x){case 0:$.aA().bt($.b_i().h(0,C.a5y))
 u=4
 if(f===""){v=!1
 x=1
 break}x=7
-return A.b($.mN().HN(f),$async$Da)
+return A.b($.mN().HN(f),$async$Db)
 case 7:x=$.aZX()?8:10
 break
 case 8:p=$.Vf()
 o=$.cUF().e.h(0,e.grO(e))
 o.toString
 x=11
-return A.b(p.R1(o),$async$Da)
+return A.b(p.R2(o),$async$Db)
 case 11:x=9
 break
 case 10:x=12
-return A.b($.Vf().aHa(e.grO(e)),$async$Da)
+return A.b($.Vf().aHb(e.grO(e)),$async$Db)
 case 12:case 9:o=e.grO(e).split(":")[0]
 r=A.dG(A.L(o,"simpletor_payment_requests_package_",""),null,null)
 $.eX()
 x=13
-return A.b(s.a.wA("Businesses/"+d+"/BusinessData",C.cm,r,"paymentRequestsCounterConsumable").I(0,new B.bON(e),y.F),$async$Da)
+return A.b(s.a.wA("Businesses/"+d+"/BusinessData",C.cm,r,"paymentRequestsCounterConsumable").I(0,new B.bON(e),y.F),$async$Db)
 case 13:$.be().d_(0,"User purchase product successfully")
 v=!0
 x=1
@@ -124,7 +124,7 @@ case 3:x=2
 break
 case 6:case 1:return A.f(v,w)
 case 2:return A.e(t,w)}})
-return A.h($async$Da,w)}}
+return A.h($async$Db,w)}}
 B.ayC.prototype={
 n(d){return new A.P(this.c,new B.bOQ(this),null,null,y.l)}}
 B.a3g.prototype={
@@ -139,14 +139,14 @@ t=A.q(d).ax.db
 t=A.fH(A.Q(102,t.gj(t)>>>16&255,t.gj(t)>>>8&255,t.gj(t)&255),1.7)
 q=$.eO()
 if(this.d)s=new A.m(v,80,v,v)
-else{s=r?v:s.gbYk()
+else{s=r?v:s.gbYl()
 r=y.u
 r=A.a8(A.a([new A.m(30,v,v,v),A.K(A.a([A.B(s==null?"":s,v,!1,!1,v,!1,!1,v,!1,!0,!1,1,v,!1,14,v,""),A.B(A.c("includesVAT",!0),v,!1,!1,v,!1,!1,v,!1,!0,!1,0.8,v,!1,9,v,"")],r),C.e,C.h,C.d),new A.m(7,v,v,v),new A.P(w,new B.bOH(w),v,v,y.m)],r),C.e,C.h,C.d,v)
 s=x.length>0?x[0]:""
 r=A.c7(!1,!0,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.bOI(this,d,w),!1,new A.x(10,6,10,6),v,5,v,v,!1,s,v,13,r,v,p,15,0,v)
 s=r}return A.by(A.K(A.a([H.cWg(A.ai(v,v,t,s,v,v,0,!1,v,v,v,v,new A.x(0,8,0,0),!1,v,v,v,17,v,!1,!1,q),v,v,new A.x(9,1,9,1),v,2,-2,10)],y.u),C.e,C.h,C.d),v,v)},
-m7(d,e){return this.bNz(d,e)},
-bNz(d,e){var x=0,w=A.i(y.v),v,u=this,t,s,r,q
+m7(d,e){return this.bNA(d,e)},
+bNA(d,e){var x=0,w=A.i(y.v),v,u=this,t,s,r,q
 var $async$m7=A.d(function(f,g){if(f===1)return A.e(g,w)
 while(true)switch(x){case 0:r=u.c
 if(r==null){x=1
@@ -154,7 +154,7 @@ break}t=A.O(d,!1)
 s=A.T(0,0,0,0,0,90)
 q=J
 x=3
-return A.b(A.bs("assets/animations/success_animation.json.zip",d,C.D,u.f===G.Fv?$.d1V().D9($.I().w.k3,r,$.S().d.d):$.d1V().Da($.I().w.k3,r,$.S().d.d),"",t,!0,!0,!1,s).b6(),$async$m7)
+return A.b(A.bs("assets/animations/success_animation.json.zip",d,C.D,u.f===G.Fv?$.d1V().Da($.I().w.k3,r,$.S().d.d):$.d1V().Db($.I().w.k3,r,$.S().d.d),"",t,!0,!0,!1,s).b6(),$async$m7)
 case 3:if(q.v(g,!0))A.O(d,!1).S(null)
 case 1:return A.f(v,w)}})
 return A.h($async$m7,w)}}
@@ -205,4 +205,4 @@ A.aS(b.typeUniverse,JSON.parse('{"ayC":{"y":[],"k":[]},"a3g":{"y":[],"k":[]}}'))
 var y={x:A.t("E<o>"),u:A.t("E<k>"),F:A.t("as"),m:A.t("P<H>"),l:A.t("P<cYA?>"),B:A.t("M<H>"),e:A.t("H"),v:A.t("~")};(function constants(){D.aMR=new A.jB(10,0,0,0)})();(function lazyInitializers(){var x=a.lazyFinal
 x($,"dRh","d1V",()=>new B.bOL(A.Of()))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_345",e:"endPart",h:b})})($__dart_deferred_initializers__,"zV+c0Bm/uW5rRKBtdV+J7aiYdGk=");
+a.eventLog.push({p:"main.dart.js_345",e:"endPart",h:b})})($__dart_deferred_initializers__,"rt32ZTvc3LFIF/FrNQsevSrMUrA=");
