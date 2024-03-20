@@ -1,73 +1,69 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_56",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-a6t(d,e,f,g,h,i){return new B.a6s(g,d,!0,h,e,f,null)},
-a6s:function a6s(d,e,f,g,h,i,j){var _=this
-_.c=d
-_.d=e
-_.x=f
-_.y=g
-_.as=h
-_.at=i
-_.a=j},
-aSN:function aSN(d){var _=this
-_.d=$
-_.a=null
-_.b=d
-_.c=null},
-cxW:function cxW(d){this.a=d},
-cxV:function cxV(d){this.a=d}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+aYa(d){var x=0,w=A.i(y.b),v,u,t,s
+var $async$aYa=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:v=A.c("logout",!0)
+u=A.aI(A.c("sureYouWantLogout",!0),null,null,null,null,null,null,C.n,null,null,null)
+t=A.c("yes",!0)
+s=J
+x=4
+return A.b(A.cQ(C.k6,!1,1,!0,null,A.c("no",!0),null,u,d,C.N,20,!0,C.A,new B.cNm(d),new B.cNn(d),!1,t,v),$async$aYa)
+case 4:x=s.v(f,"OK")?2:3
+break
+case 2:v=A.O(d,!1)
+s=J
+x=5
+return A.b(A.bs("assets/animations/success_animation.json.zip",d,C.D,B.afE(d),A.c("logoutSuccessfully",!0),v,!0,!0,!1,C.H).b6(),$async$aYa)
+case 5:if(s.v(f,!0)){A.p9(d)
+A.Dq(d).afq()}case 3:return A.f(null,w)}})
+return A.h($async$aYa,w)},
+afE(d){var x=0,w=A.i(y.e),v,u
+var $async$afE=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:u=y.e
+x=3
+return A.b(A.eD(J.aF(A.ae("userHelper.18",0),new B.cJm(),u),new B.cJn(),u,y.o),$async$afE)
+case 3:if(!f){$.be().cu(0,"Failed to load the library UserHelper")
+v=!1
+x=1
+break}x=4
+return A.b(A.aXG(),$async$afE)
+case 4:A.ac("userHelper.18")
+x=5
+return A.b(D.eW().jL(),$async$afE)
+case 5:v=!0
+x=1
+break
+case 1:return A.f(v,w)}})
+return A.h($async$afE,w)},
+cNm:function cNm(d){this.a=d},
+cNn:function cNn(d){this.a=d},
+cJm:function cJm(){},
+cJn:function cJn(){}}
+J=c[1]
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[203],B)
-B.a6s.prototype={
-a0(){return new B.aSN(C.o)}}
-B.aSN.prototype={
-n(d){var x,w,v,u,t,s,r,q,p,o,n,m,l=this,k=null,j=l.a
-j.toString
-x=$.mh()
-w=x?0:5
-v=x?2:7
-if(j.y)j=A.q(d).ax.cy
-else{j=A.q(d).ax
-u=j.y
-j=u==null?j.f:u}u=l.a
-t=u.y
-s=u.d
-r=u.at
-u=u.as
-q=A.b1(k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k)
-l.a.toString
-p=A.d("search",!0)
-o=l.d
-if(o===$){n=l.a.c.a
-n=n==null?C.be:new A.dd(n,C.aN,C.aw)
-o=new A.cN(n,$.an())
-o=l.d=o}n=A.q(d).p3.z
-n.toString
-n=n.fT(x?15:17)
-x=l.a
-if(x.y)x=A.q(d).ax.db
-else{x=A.q(d).ax
-m=x.z
-x=m==null?x.r:m}v=A.ak(C.v,k,k,A.dD(o,k,k,s,q,p,k,k,k,k,k,k,k,new B.cxV(l),k,u,new B.cxW(l),t,k,r,!0,new A.bf(C.Ms,24,t,0.5,!1,!t,!1,k,k),!1,!1,!1,!0,k,n.bU(x),C.ar),j,k,0,!1,k,k,k,k,k,!1,k,k,new A.y(8,w,8,v),15,k,!1,!1,k)
-l.a.toString
-return A.N(A.a([v,new A.m(k,3,k,k),new A.m(k,k,k,k)],y.a),C.ao,C.h,C.d)}}
+D=c[6]
+B=a.updateHolder(c[80],B)
 var z=a.updateTypes([])
-B.cxW.prototype={
-$1(d){this.a.a.toString},
-$S:510}
-B.cxV.prototype={
-$1(d){var x=this.a
-x.a.c.sj(0,d)
-x.a.c.D()
-x.a.toString},
-$S:48};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.a6s,A.a5)
-x(B.aSN,A.ab)
-w(A.b8,[B.cxW,B.cxV])})()
-A.b_(b.typeUniverse,JSON.parse('{"a6s":{"a5":[],"l":[]},"aSN":{"ab":["a6s"]}}'))
-var y={a:A.v("G<l>")}};
+B.cNm.prototype={
+$0(){A.O(this.a,!1).S("Cancel")
+return null},
+$S:0}
+B.cNn.prototype={
+$0(){A.O(this.a,!1).S("OK")
+return null},
+$S:0}
+B.cJm.prototype={
+$1(d){return!0},
+$S:93}
+B.cJn.prototype={
+$2(d,e){return!1},
+$S:22};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.b2,[B.cNm,B.cNn])
+w(B.cJm,A.b_)
+w(B.cJn,A.bI)})()
+var y={o:A.t("ah"),e:A.t("H"),b:A.t("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_56",e:"endPart",h:b})})($__dart_deferred_initializers__,"6dnr/23XwLN2Jd/+BV/6TCW0sAo=");
+a.eventLog.push({p:"main.dart.js_56",e:"endPart",h:b})})($__dart_deferred_initializers__,"VX8lpveSK3xsUBjDwtK51+Nt8WE=");

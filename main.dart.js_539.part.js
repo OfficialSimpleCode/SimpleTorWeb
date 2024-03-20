@@ -1,68 +1,110 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_539",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,E,B={
-dxT(){return new B.ay9(null)},
-ay9:function ay9(d){this.a=d},
-bIv:function bIv(d){this.a=d},
-bIw:function bIw(d){this.a=d},
-b_a(d){var x=0,w=A.j(y.b),v,u
-var $async$b_a=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:x=6
-return A.c(A.bL(d,A.ai("recurreenceBookingsPage",0)),$async$b_a)
-case 6:x=f===!0?3:5
-break
-case 3:u=A.fg(new B.cPv(),null,y.a)
-x=7
-return A.c(A.Q(d,!1).e7(u),$async$b_a)
-case 7:v=f
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,G,H,I,F,B={
+cGR(d){var x=0,w=A.i(y.h),v,u
+var $async$cGR=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:u=A.c("cancelSub",!0)
+x=3
+return A.b(A.cQ(C.am,!1,1,!0,null,null,null,A.B(A.c("cancelSubExplain",!0),C.n,!1,!1,null,!1,!1,null,!1,!1,!1,1,null,!1,14,null,""),d,C.N,20,!0,C.A,null,new B.cGS(),!1,A.c("cancelInSetting",!0),u),$async$cGR)
+case 3:v=f
 x=1
 break
-x=4
-break
-case 5:new A.ag(A.d("thereIsProblem",!0),C.k,C.l,C.n,d).M()
-case 4:case 1:return A.h(v,w)}})
-return A.i($async$b_a,w)},
-cPv:function cPv(){}}
+case 1:return A.f(v,w)}})
+return A.h($async$cGR,w)},
+cGS:function cGS(){},
+doI(){return new B.WI(null)},
+WI:function WI(d){this.a=d},
+aIh:function aIh(d){this.a=null
+this.b=d
+this.c=null},
+cfc:function cfc(d,e){this.a=d
+this.b=e},
+cfd:function cfd(d){this.a=d}},E,D
 A=c[0]
 C=c[2]
-D=c[328]
-E=c[74]
-B=a.updateHolder(c[39],B)
-B.ay9.prototype={
-n(d){var x,w,v=null,u=A.E(A.d("menu",!0),v,!1,!1,v,!1,!1,v,!1,!1,!1,1,v,!1,16,v,""),t=A.q(d).ax,s=t.y
-t=s==null?t.f:s
-s=$.fR()
-t=A.ak(v,v,v,A.ci(!1,!0,v,!0,!0,!1,!1,!0,!1,!0,new B.bIv(d),!0,new A.y(14,18,14,18),A.bt(D.iM,v,v,v,v),5,v,v,!1,v,v,13,C.cF,v,A.d("passedBookings",!0),15,0,v),t,v,0,!1,v,v,v,v,v,!1,v,v,v,v,v,!1,!1,s)
-x=A.q(d).ax
-w=x.y
-x=w==null?x.f:w
-return A.bF(A.N(A.a([u,new A.m(v,20,v,v),t,new A.m(v,10,v,v),A.ak(v,v,v,A.ci(!1,!0,v,!0,!0,!1,!1,!0,!1,!0,new B.bIw(d),!0,new A.y(14,18,14,18),A.bt(C.CS,v,v,v,v),5,v,v,!1,v,v,13,C.cF,v,A.d("recurringBookings",!0),15,0,v),x,v,0,!1,v,v,v,v,v,!1,v,v,v,v,v,!1,!1,s),new A.m(v,30,v,v)],y.e),C.e,C.h,C.d),v,v)}}
-var z=a.updateTypes(["RD(B)"])
-B.bIv.prototype={
-$0(){var x=0,w=A.j(y.p),v=this
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.ahQ(v.a),$async$$0)
-case 2:return A.h(null,w)}})
-return A.i($async$$0,w)},
-$S:1}
-B.bIw.prototype={
-$0(){var x=0,w=A.j(y.p),v=this
-var $async$$0=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(B.b_a(v.a),$async$$0)
-case 2:return A.h(null,w)}})
-return A.i($async$$0,w)},
-$S:1}
-B.cPv.prototype={
-$1(d){A.ae("recurreenceBookingsPage")
-return E.dzb()},
-$S:z+0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.ay9,A.A)
-w(A.bb,[B.bIv,B.bIw])
-x(B.cPv,A.b8)})()
-A.aV(b.typeUniverse,JSON.parse('{"ay9":{"A":[],"l":[]}}'))
-var y={e:A.v("G<l>"),p:A.v("aw"),b:A.v("@"),a:A.v("ah?")}};
+G=c[317]
+H=c[300]
+I=c[287]
+F=c[370]
+B=a.updateHolder(c[78],B)
+E=c[247]
+D=c[292]
+B.WI.prototype={
+a0(){return new B.aIh(C.o)}}
+B.aIh.prototype={
+n(d){var x,w=this,v=null,u=y.j,t=A.a([],u),s=$.I(),r=s.w,q=r.k1
+if(q!=="")t.push(w.a82(q,!0,r.fy===""))
+r=s.w
+q=r.fx
+if(q!=="")t.push(w.a82(q,!0,r.dy===""))
+r=A.c("activeSubs",!0)
+q=w.c
+q.toString
+q=A.q(q).ax
+x=q.y
+q=x==null?q.f:x
+x=A.c("activeSubsExplain",!0)
+r=E.cn(t,r,t.length===0?F.rz:v,q,x,v,!0,v,v,v,v,v)
+t=A.a([],u)
+u=s.w.fy
+if(u!=="")t.push(w.an_(u))
+u=s.w.dy
+if(u!=="")t.push(w.an_(u))
+u=A.c("pendingSubs",!0)
+q=w.c
+q.toString
+q=A.q(q).ax
+x=q.y
+q=x==null?q.f:x
+x=A.c("pendingSubsExplain",!0)
+return A.K(A.a([r,E.cn(t,u,t.length===0?F.rz:v,q,x,v,!0,v,v,v,v,v),new A.m(v,30,v,v)],y.e),C.e,C.h,C.d)},
+a82(d,e,f){var x,w,v,u,t,s,r,q=null,p=$.mN().f
+if(p!=null){p=p.b.h(0,d)
+x=p==null?"":p}else x=""
+w=x.split("-")
+v=w[0]
+u=w.length===2?x.split("-")[1]:""
+p=C.i.u(d,"worker")
+t=p?12:16
+p=p?H.f4:G.ks
+s=f?new A.a4(D.KH,A.d2(new A.b1(C.lS,29,!1,1,!1,!0,!1,q,q),new B.cfc(this,d),1),q):new A.m(q,q,q,q)
+r=e?new A.a4(D.KH,A.d2(new A.b1(I.lX,29,!1,1,!1,!0,!1,q,q),new B.cfd(this),1),q):new A.m(q,q,q,q)
+return E.bv(!1,!1,D.J,q,q,!0,!1,p,t,!1,!1,D.O,v,!1,!1,q,q,q,q,0,q,!0,!1,q,q,u,!0,!1,q,A.a8(A.a([new A.m(20,q,q,q),s,r],y.e),C.e,C.h,C.d,q),!1,q)},
+an_(d){return this.a82(d,!1,!1)}}
+var z=a.updateTypes([])
+B.cGS.prototype={
+$0(){return A.d4B()},
+$S:3}
+B.cfc.prototype={
+$0(){var x=0,w=A.i(y.f),v=this,u,t
+var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
+while(true)switch(x){case 0:u=C.i.u(v.b,"worker")
+t=v.a.c
+t.toString
+x=2
+return A.b(A.Lo(t,u,!1),$async$$0)
+case 2:return A.f(null,w)}})
+return A.h($async$$0,w)},
+$S:3}
+B.cfd.prototype={
+$0(){var x=0,w=A.i(y.f),v,u=this,t
+var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
+while(true)switch(x){case 0:if($.S().ahZ()){t=u.a.c
+t.toString
+new A.ab(A.c("cantCancelSubs",!1),C.k,C.l,C.m,t).G()
+x=1
+break}t=u.a.c
+t.toString
+x=3
+return A.b(B.cGR(t),$async$$0)
+case 3:case 1:return A.f(v,w)}})
+return A.h($async$$0,w)},
+$S:3};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.b2,[B.cGS,B.cfc,B.cfd])
+w(B.WI,A.a2)
+w(B.aIh,A.aa)})()
+A.aS(b.typeUniverse,JSON.parse('{"WI":{"a2":[],"k":[]},"aIh":{"aa":["WI"]}}'))
+var y={j:A.t("E<lt>"),e:A.t("E<k>"),h:A.t("H?"),f:A.t("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_539",e:"endPart",h:b})})($__dart_deferred_initializers__,"wV5yOD2C185TPhRlabjcywmGOAE=");
+a.eventLog.push({p:"main.dart.js_539",e:"endPart",h:b})})($__dart_deferred_initializers__,"6ONkQNOZqwRAcW1hFhCeV0+WYtY=");
